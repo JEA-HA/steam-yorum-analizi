@@ -13,3 +13,4 @@ matplotlib
 streamlit
 python-dotenv
 tqdm
+reportlab
