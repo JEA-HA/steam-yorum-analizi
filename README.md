@@ -49,4 +49,4 @@ streamlit run dashboard/app.py
 
 ## Geliştirici
 
-Mehmet Mıdıkoğlu — Danışman: Dr. Öğr. Üyesi Melih Engin
+Mehmet Mıdıkoğlu — Danışman: Prof. Dr. Melih Engin
