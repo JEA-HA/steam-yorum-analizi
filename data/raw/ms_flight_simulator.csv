@@ -1,0 +1,1428 @@
+﻿game_name,game_genre,review,voted_up,timestamp_created,language,playtime_forever
+Microsoft Flight Simulator,Simulasyon,"РЕШЕНИЕ ПРОБЛЕМЫ С УДАЛЕНИЕМ ИГРЫ (ОСВОБОЖДАЕМ 100+ ГБ)
+
+ ⬇️ПОЛГОДА! Полгода я пытался полностью удалить этот симулятор из Steam! Из-за идиотской системы лаунчера Steam сносит всего 1-2 ГБ самого загрузчика, а остальные 100+ гигабайт карт, самолетов и текстур остаются мертвым грузом лежать у вас на диске. Поддержка ничем не помогла, только гоняла по кругу.
+
+Если вы тоже обыскались, куда делось место после «удаления» игры, не ломайте голову. Всё решается вручную за 2 минуты. Как полностью вернуть свои гигабайты:
+
+Нажмите на клавиатуре комбинацию клавиш Win + R.Вставьте в появившееся окно этот путь и нажмите Enter:
+
+%appdata%\Microsoft Flight Simulator
+
+Вы попадете в скрытую папку. Смело удаляйте папку Microsoft Flight Simulator целиком (лучше через Shift + Delete, чтобы не зависло в корзине). Именно там в папке Packages лежат все скрытые гигабайты.
+
+Если папки там нет, нажмите снова Win + R, введите 
+
+%localappdata%\Packages
+
+найдите папку со словами Microsoft.FlightSimulator и зачистите остатки внутри нее (папки LocalCache или RoamingState).
+
+Надеюсь, этот отзыв сбережет кому-то кучу нервов и кучу места на SSD.",False,2026-05-27 12:59:17,russian,3130
+Microsoft Flight Simulator,Simulasyon,"Die Installation war schon schlecht. 
+Warum muss ich das über einen extra launcher herunterladen der dann oft hängen bleibt? 
+Das Spiel an sich ist nicht schlecht, aber alles drum herum ist eine Katastrophe. Ich kann dieses Spiel nicht deinstallieren. ich habe es über steam versucht aber es sind immer noch irgendwo 120gb versteckt, dann hab ich alle Ordner gelöscht die ich zu diesem Spiel finden konnte. immer noch keine 120gb mehr frei. 
+
+Microsoft ist so ein schmutz",False,2026-05-09 08:35:04,german,719
+Microsoft Flight Simulator,Simulasyon,"La verdad, siendo honesto, juegazo.
+Este juego logra ser bastante jugable gracias a su realismo y telemetría en el mundo y aunque haya salido el MSFS2024 no lo he comprado debido que no creo que me me vaya muy bien en mi laptop y que no es tan estable, pero el MSFS2020 todavía sigue activo con una gran comunidad.
+Puede llegar a ser aun mas disfrutable si te puedes lograr comprar Yokes o Sidesticks como los que usan en los Airbus/Boeing para tener una sensación más realista al pilotar aviones, también hay más accesorios que venden los cuales pueden ser como el MCDU, Thrusters, y más.
+También puedes lograr instalar mods o conseguir aviones, aeropuertos y ""liveries"" (los diseños del aviones como los de aerolíneas, para dar un ejemplo, Air France).
+También tiene comunidades como VATSIM, IVAO y más que hacen simulaciones aún mas realistas ya que simulan el contacto de torre de control con el piloto logrando una experiencia más real y fiel a la realidad.
+
+Y bueno eso es todo, por favor Microsoft o Xbox hagan más juegos como estos.",True,2026-05-10 02:59:21,latam,14927
+Microsoft Flight Simulator,Simulasyon,Microsoft did magic with this game. The whole planet waits here in 1:1.... Masterpiece. 10/10,True,2026-05-10 19:21:48,english,9420
+Microsoft Flight Simulator,Simulasyon,Malgré la date de sortie de celui-ci c'est un des meilleur jeux de simulation d'avion actuelle,True,2026-05-17 13:52:13,french,7014
+Microsoft Flight Simulator,Simulasyon,"One of the best plane sim I ve ever played.
+Highly recommend to buy it during sold event to buy the deluxe version for more aircraifts but you still have aircraft u can download for free from flight sim sites or directly from the Xbox market",True,2026-05-14 00:12:28,french,813
+Microsoft Flight Simulator,Simulasyon,Да я рекомендую в эту игру поиграть дургим. Если есть возможность возмите болие новую версию 2024 года. И лучше делюкс эдишен ведь в нем даються такие самалеты как цесны. Что касаеться самой игры то она не оптимизирована вернее оптимезирована но очень старнно оптимизация похожа на тарков чтобы  у тебя работло  на минималках играй хуть на ведре но чтоб все работало на максималках покупаи комп наса.,True,2026-05-15 13:55:25,russian,13917
+Microsoft Flight Simulator,Simulasyon,"Despues de haber jugado bastantes horas, es momento de dar mi opinión. El juego en si, es una maravilla. Tiene sus ""pequeños"" bugs, pero es mucho mas estable que el 2024, que sin menospreciar su continuación, hasta que no esté completamente estabilizado y que los mods y Add-ons funcionen al 100% como en el 2020, permaneceré aquí. Para tener una experiencia de primer nivel, se recomienda tener una pc potente para poder exprimirlo, de lo contrario se sufre. En mi caso con un Ultra Wide 9, una 5080 y 64 GB de Ram, corre excelente. A veces hay caídas de FPS en ciertos aeropuertos de mayor complejidad, pero éso se resuelve bajando un poco la calidad gráfica sin sacrificar demasiado. Espero que Asobo resuelva problemas con el 2024 y lo deje bien afinado para pasar definitivamente. Mientras tanto, seguiré disfrutando del 2020.",True,2026-05-11 22:02:02,latam,15022
+Microsoft Flight Simulator,Simulasyon,"eu tenho que bater palmas pra equipe que criou o jogo, simplesmente o melhor jogo que já joguei.",True,2026-05-09 17:14:48,brazilian,1480
+Microsoft Flight Simulator,Simulasyon,"Das Spiel an sich ist gut, aber die Installation ist der reinste müll:
+
+90-Euro-Spiel kaufen.
+
+2 GB herunterladen.
+
+Einen ganzen Tag lang über den Launcher versuchen, das eigentliche Spiel zu laden.
+
+Launcher stürzt ab.
+
+Das Spiel endlich starten und genießen.
+
+Das Spiel deinstallieren und sich wundern, warum kein Speicherplatz freigeworden ist.
+
+YouTube-Tutorial anschauen und 400 GB an Installationsdateien manuell in irgendeinem versteckten Ordner löschen.",False,2026-05-23 21:29:01,german,2667
+Microsoft Flight Simulator,Simulasyon,"So sorry I bought it. I don't might that it's complicated, but when I started the game after not playing for a couple of weeks, Microsoft wants me to sign a big document and wave my rights??? I paid at least $140 for this crap and it's not mine. We are done with MSFS and Steam. You young guys are nuts. Going back to X plane",False,2026-05-13 01:21:54,english,6603
+Microsoft Flight Simulator,Simulasyon,"If you can get the game to play and work it is a good game, however I don't recommend this game because it breaks all the time, bugs, updates taking hours, downloading items from content manager.  This game is still in beta testing stages and needs to be fixed!",False,2026-05-13 01:06:37,english,2151
+Microsoft Flight Simulator,Simulasyon,I have a little bit of time in the game i had uninstalled the game to replace a hard drive now i get the login screen of death ive tried every fix i can find online and nothing waste of money and i will never buy another Microsoft flight simulator.,False,2026-06-01 22:08:14,english,1453
+Microsoft Flight Simulator,Simulasyon,"This game taught me how to fly. 
+Currently working on a PPL and wouldn't have moved along so quickly if I didn't have MSFS to practice manoeuvres in. Great flight sim but HOTAS and pedals DEFINITELY recommended, mouse and keyboard controls don't do it justice.",True,2026-05-28 13:03:42,english,6813
+Microsoft Flight Simulator,Simulasyon,"The VR mode is amazing! and the physics of flying are very realistic, however the Installer is bad. like REALLY BAD!",True,2026-06-07 22:43:31,english,3262
+Microsoft Flight Simulator,Simulasyon,its an amazing discovering game of flight and discovering new plances around the gloabe,True,2026-06-07 21:32:16,english,259963
+Microsoft Flight Simulator,Simulasyon,"Buggé, c'est du Microsoft. Asobo, studio honteux. Beau jeu quand même, si on aime l'aéronautique.",True,2026-06-07 10:44:08,french,6129
+Microsoft Flight Simulator,Simulasyon,"No fajna gierka, trochę trzeba pograć żeby ogarnąć, ale daje wiele możliwości jeśli jesteś kreatywny. Zarąbista.",True,2026-06-07 08:58:18,polish,2611
+Microsoft Flight Simulator,Simulasyon,"The game is nice, but can require some mods to make the experience really nice.",True,2026-06-06 01:48:20,english,5862
+Microsoft Flight Simulator,Simulasyon,"Game fluido com minhas especificações. Não vejo necessidade acima de 60 fps pra um game contemplativo, campanha solo. Então roda liso!!!",True,2026-06-06 00:10:11,brazilian,1070
+Microsoft Flight Simulator,Simulasyon,"MFS2020 is a masterpiece, a monumental achievement in gaming, photgrammetry, and simulation....yet, it is not for everyone. 
+
+How can a masterpiece of a game not be for everyone you might ask? Well the answer for this is simple. This is not a normal ""game"" in the sense that most people are familiar with. MFS2020 lacks a narrative, has no real missions, no career mode (although it should), no characters, etc. So why play it? For what is lacks in story and progression, it makes up for with its near-infinite sandbox, graphical fidelity, simulation depth, and learning curve. 
+
+I've been playing MFS since 2006 when I was just ten years old and got my hands on MFS X. I was instantly addicted to the difficulty and the beauty of that game. And over time, little pre-teen me was able to figure out how to fly airliners in an age when youtube tutorials were in their infancy. 
+
+14 years later, MFS2020 released with the announcement that by using a combination of satellite photogrammetry and hand crafted models, Microsoft had essentially put the entire Earth into the video game. You can literally fly over your house--at least as it appeared on Bing Maps in 2020 anyway, you can see every house in your community, follow the traffic down the road you take to work, see landmarks around the world, and so on. Moreover, they implemented a system to import live weather conditions, which combined with the improved volumetric weather and cloud system produces insanely life-like simulation. It's truly an achievement that few other games can boast. 
+
+What you are left with is a game that will absolutely satisfy you if you are a fan of aviation, hardcore simulation, or just want to sit back and soar above the clouds while listening to music or an audiobook. The sandbox is yours to do what you want. You can fly a little prop plane around your community, or roleplay as an airline captain with routes and rigid checklists and so on. 
+
+But again, this is not an experience for everyone. There are many people who will boot this up, play for a few hours,  and say ""okay so this is it?"" And that's fine.  But if you want to dig into a deep, beautiful simulation game, the sky is the limit.",True,2026-06-05 23:14:41,english,7422
+Microsoft Flight Simulator,Simulasyon,"Jogo muito bom, porém muito pesado e relativamente mal otimizado. Apesar de ter sido lançado em 2020, o simulador envelheceu muito bem, e gráficamente ainda se equipara com jogos atuais.",True,2026-06-05 00:03:16,brazilian,1971
+Microsoft Flight Simulator,Simulasyon,"крутая игра, эффекты реальные, у меня комп гудел как двигатель от самолета, а также с диска пропало 200 гб. ставлю этой игре бесконечсность stall из 10",True,2026-06-04 06:13:21,russian,616
+Microsoft Flight Simulator,Simulasyon,"Gráficos:
+☑ Arte puro (Ver el amanecer por encima de las nubes a 30,000 pies es de otro mundo)
+☐ Buenos
+☐ Decentes
+☐ Si te quedas fijo mirando, pixelas
+
+Jugabilidad:
+☐ Adictiva como el café de la mañana
+☑ Disfrutable para pasar el rato (Planificar vuelos de aerolínea, activar el piloto automático y disfrutar del viaje)
+☐ Se deja jugar
+☐ Necesitas un manual de ingeniería (Puedes configurar las asistencias para que sea accesible o ponerlo en plan simulación pura donde cada botón de la cabina funciona)
+
+Rendimiento / Optimización:
+☐ Va como un tiro, finísimo
+☐ Estable
+☑ Exige más de lo que da (El verdadero jefe final para tu procesador y tu tarjeta gráfica)
+☐ Diapositivas en alta definición
+
+Lore / Historia:
+☐ Obra maestra
+☐ Entretenida
+☐ Está ahí para justificar que rompas cosas
+☑ No tiene / El lore es no estrellar un avión de 80 toneladas contra el suelo en el aterrizaje
+
+Conclusión: Si tienes un SSD con espacio de sobra, paciencia para las actualizaciones y te gusta la aviación comercial o general, es el simulador definitivo. Una maravilla visual.",True,2026-06-04 00:10:09,latam,63243
+Microsoft Flight Simulator,Simulasyon,非常好游戏使我环游世界 就是不能飞低了不然地景很糊,True,2026-06-03 12:03:10,schinese,2795
+Microsoft Flight Simulator,Simulasyon,"Microsoft è pessima, ho comprato il gioco su steam e ora non parte perché ora vuole l'account su xbox del quale non mi importa niente e al quale non voglio pagare un abbonamento.",False,2026-06-02 17:08:34,italian,5240
+Microsoft Flight Simulator,Simulasyon,"Game keeps crashing on initial startup in VR. Multiple bugs such as falling through the map when it does load into a flight,",False,2026-06-01 02:40:07,english,587
+Microsoft Flight Simulator,Simulasyon,"Way too many crashes for the amount of money I have spent on this game. Incredibly frustrating experience overall. 
+Game looks pretty when it runs though",False,2026-06-01 02:15:43,english,10294
+Microsoft Flight Simulator,Simulasyon,"Highly recommend this game. The graphics are amazing at high-end preset. Absoultely amazing game. After some time it can get a bit repetetive and boring, my recommendation is to install NeoFly. It is pretty much a career mode for MSFS. That way the game is awesome! Highly recommend it!",True,2026-05-31 14:25:41,english,2053
+Microsoft Flight Simulator,Simulasyon,"Je regrette complètement cet achat. Derrière une vitrine technologique impressionnante se cache un jeu d’une pauvreté incroyable en termes de gameplay. On décolle, on vole pendant des heures sans qu’il ne se passe quoi que ce soit d’intéressant, puis on atterrit. Les avions militaires sont présents mais sans missions adaptées, sans objectifs, sans contenu qui justifie réellement leur existence. Le monde est magnifique, mais un beau décor ne remplace pas un jeu. À ce prix, j’attendais une expérience vivante ; j’ai eu l’impression de payer pour une démonstration technique interminable.",False,2026-05-31 14:02:24,french,1111
+Microsoft Flight Simulator,Simulasyon,"Далеко не дешёвая игра, но своих денег стоит. 
+
+Как симулятор самолётов для рядовых игроков, желающих просто полетать не подойдет. Слишком трудно и много профессионального авиационного контента. Для комфортной игры как минимум нужен сайдстик/штурвал и руды, а это еще плюс к цене игры. 
+
+В игре багов не нашел, музыка приятная, графика тоже. 
+
+Разве что из-за цены на все, что только возможно, моя оценка: 7.5/10",True,2026-05-31 11:56:09,russian,2725
+Microsoft Flight Simulator,Simulasyon,"so this game a broken downloader simulator.
+
+i get it for 20 dollars on steam sale.
+i let the thing that said ""looking for updates"" for 22 HOURS. do YOU want to know what happened? NOTHING! IT WAS ON THE SAME FRAME I LEFT IT ON. unless i find a solution to this bug i cannot recomend this.
+only buy it if you want to stare at a single frame of a loading screen simulator 2020.",False,2026-05-31 00:39:33,english,1423
+Microsoft Flight Simulator,Simulasyon,"Ausgereifter Simulator, mit gekauften Flugzeugen super zum Simulieren",True,2026-05-30 19:39:09,german,15053
+Microsoft Flight Simulator,Simulasyon,"Simplismente o melhor simulador de piloto que ja vi, graficos impecaveis, simulação top, realismo extremo",True,2026-05-29 23:42:41,brazilian,2091
+Microsoft Flight Simulator,Simulasyon,"rlly good game, graphics are good, i love listening to my pc screaming when i play this game. my pc makes a mildly loud- very loud sound when i run the game but tbh i think its just my pc.",True,2026-05-29 03:08:30,english,6153
+Microsoft Flight Simulator,Simulasyon,"I spent 7 hours just trouble shooting, downloading the game and dealing with bugs ingame that wouldnt allow me to complete the flights.",False,2026-05-27 22:10:32,english,619
+Microsoft Flight Simulator,Simulasyon,j'adore tout je joue a se jeu avec un flight stick tout est incroyable les graphisme etc est surtout la selection des avion (concorde incroyable mais payant),True,2026-05-27 20:54:12,french,12717
+Microsoft Flight Simulator,Simulasyon,"Gostei dos aviões e de visitar os lugares no mundo, mas não gostei de alguns prédios e lugares turísticos deformados por falha da renderização ou algo do tipo, mas mesmo assim eu recomendo.",True,2026-05-26 22:20:15,brazilian,5286
+Microsoft Flight Simulator,Simulasyon,"O jogo é perfeito, graficos, avioes, fisica, enfim, vale muito a pena para quem gosta de conhecer o mundo e explorar varios aeroportos",True,2026-05-26 17:48:55,brazilian,3229
+Microsoft Flight Simulator,Simulasyon,"Solid flight sim game that still holds up years after its release. Totally recommend it, especially at the bargain prices it’s been selling for lately.",True,2026-05-24 20:02:20,brazilian,2698
+Microsoft Flight Simulator,Simulasyon,"After playing this game, waiting for an opportunity when both the pilots are unconsious and its my job to land the plane safely.",True,2026-05-24 11:31:10,english,4327
+Microsoft Flight Simulator,Simulasyon,"Love the game and its definitely like real flying, takes forever and everything. I do wish Microsoft themselves would add more military planes though the f18 doesn't like to turn on the runway and the in game store is pricey. Worth the money if you love planes of any kind",True,2026-05-24 02:57:43,english,2384
+Microsoft Flight Simulator,Simulasyon,"Crashes every single time without fail upon loading up past safe mode/normal mode screen. I've owned this game for 2 years as of today and have never once been able to play (let alone start the actual download). I've tried every tutorial from forums to reddit posts to get it running. This is my first ever review for any title I've ever owned and this one is deserving of a thumbs down because those 1.9 hours of play time are quite literally me loading the game in the launcher and it crashing. I bought the premium deluxe edition and was stoked to try some of my favorite aircraft. I'm sure the game is truly beautiful and worth spending time and energy in, but It is just such a shame I cant ever load in to experience it.",False,2026-05-23 23:32:04,english,607
+Microsoft Flight Simulator,Simulasyon,"Otimo simulador. A unica coisa, por enquanto, que odiei foi o fato de ter comprado uma aeronave de pessima qualidade e nao consegui devolver para poder ter o reembolso.",True,2026-05-23 18:47:43,brazilian,14052
+Microsoft Flight Simulator,Simulasyon,"O jogo é bom, mas não há como pedir reembolso. Você baixa 1GB, mas ao abrir o jogo há um launcher que baixa mais 120GB, e esse tempo conta nas 2 horas de reembolso da Steam.
+Esse download no launcher é muito lento e pode demorar de 2 a 3 horas para terminar.",False,2026-05-22 19:02:03,brazilian,6283
+Microsoft Flight Simulator,Simulasyon,"good game i guess, i crashed a a380 into my house and felt it in real life so gud game LOVE IT",True,2026-05-21 12:20:39,english,20141
+Microsoft Flight Simulator,Simulasyon,"oyun çok gerçekçi güzel bir uçuş deneyimi sağlıyor ama çok iyi bir sistemi
+niz olsa dahi fps hala düşük optimizasyon yerlerde ayrıca beleş uçak sayısıda çok düşük",True,2026-05-20 20:25:23,turkish,1481
+Microsoft Flight Simulator,Simulasyon,"This game is very good for people who want a half arcade-half realism flying game, but its kind of p2w as u only get a couple decent planes for free",True,2026-05-20 15:50:31,english,4785
+Microsoft Flight Simulator,Simulasyon,画质很好，非常好玩，非常真实，推荐搭配外设,True,2026-05-20 14:10:09,schinese,2638
+Microsoft Flight Simulator,Simulasyon,Desenvolve sua inteligência e conhecimento sobre aeronautica.,True,2026-05-19 23:12:00,brazilian,4489
+Microsoft Flight Simulator,Simulasyon,"чому за 6 років досі не пофіксили ці дитячі проблеми, о прсто не можна начати нову гру то не змінюється погода то при завантаженні на інший ПК ця срань взагалі відмовляється зупускатись ну як ♥♥♥♥♥ так",False,2026-05-19 16:00:02,ukrainian,10622
+Microsoft Flight Simulator,Simulasyon,很好玩 但資料很大很吃硬碟空間,True,2026-05-18 12:48:28,tchinese,1807
+Microsoft Flight Simulator,Simulasyon,"takes 3 hours to install even though i have a SSD thats capable of writing at 800mbps because microsoft has a ♥♥♥♥♥♥ 2gb installer for ts instead of just letting people directly install it through steam, thanks microsoft!",False,2026-05-17 22:08:21,english,3287
+Microsoft Flight Simulator,Simulasyon,"This game is honestly ♥♥♥♥, either i spend three hours downloading updates or it gives me an xbox sign in button i can't click. I regret spending my money on this",False,2026-05-17 04:09:04,english,505
+Microsoft Flight Simulator,Simulasyon,Had the game for couple of years just to log on after a while and see all my activities achievements have been reset to 0. Microsoft refuses to gets it back and says my cloud data was corrupted or did not save. 4 years of activities flying and achievements gone despite the game still showing in my profile settings that I completed the flights,False,2026-05-17 01:43:25,english,13053
+Microsoft Flight Simulator,Simulasyon,"o simulador é muito realista com fisicas e comandos bem definidos, ótimo para os amantes de aviação ou já e piloto e precisa treinar.",True,2026-05-16 23:57:46,brazilian,13929
+Microsoft Flight Simulator,Simulasyon,I love Microsoft update simulator 2020 it really captures the perfect update experience don't get bogged down with playing games when you could just be updating them all the time. And don't think this is another streamlined easy player out of the box update experience it's going to require multiple crashes and restarts along the way very much a hands-on experience. I love the consistency as well for example according to steam I have played this game for 67.5 hours and I don't think I've spent more than one or two hours in game at most which is a godsend because I can't stand having to actually play the game I much prefer the update experience. If you too want a impossibly long painful experience dragged out in perpetuity pick up Microsoft flight simulator today a game that you pay full price for and then have to buy individual planes at a costly additional DLC per each price. Oh and don't stop there because if you actually want to make space for the enjoyable experience of continuously updating the game you never play you better be prepared to delete everything else in your library or be buying this sarlac pit of data its own hard drive because as of posting it's over 160 gigs.,False,2026-05-15 21:40:53,english,4052
+Microsoft Flight Simulator,Simulasyon,"Been playing this for years, I stopped about 6 months ago due to health reasons so I have got back to full health, so when I launch the game it asks my to sign into some XBox thing which it never did before, I play on my PC and never had an XBox account why do I need one this sucks",False,2026-05-15 21:19:48,english,56815
+Microsoft Flight Simulator,Simulasyon,"“Good visuals, basic interface but very enjoyable gameplay. MSFS24 still has streaming stability issues and needs a powerful GPU. Strong stability. Suitable for ""average PCs"" and a good first flight simulation experience”",True,2026-05-12 19:45:46,english,1082
+Microsoft Flight Simulator,Simulasyon,"This game is fun. as you can tell from how many hours i got on it. it may not be your cup of tea. but its well worth a look with Xbox game pass, before buying it.",True,2026-05-12 14:15:19,english,71144
+Microsoft Flight Simulator,Simulasyon,"Microsoft Flight Simulator 2020 is one of the most impressive simulation games ever released, and even years later, it still feels like a benchmark title for what a modern simulator can be. It is not just a game where you fly planes from one airport to another. It is a full aviation sandbox that gives you the entire world, thousands of airports, real weather, realistic flight systems, beautiful aircraft, and endless opportunities to learn, explore, and improve.
+
+The strongest part of Microsoft Flight Simulator 2020 is its sense of scale. Being able to take off from your local airport, fly over your own city, cross oceans, visit famous landmarks, land in remote mountain strips, or recreate real airline routes is incredible. The game makes aviation feel global in a way very few titles ever have. Whether you want to fly a short VFR sightseeing route in a Cessna 172 or plan a full IFR airline flight across the country, the game gives you the tools to do it.
+
+The visuals are absolutely outstanding. The world looks gorgeous from the air, especially with live weather, changing cloud layers, sunsets, storms, snow, and realistic lighting. Flying through mountain ranges, along coastlines, over cities, or into busy airports can genuinely feel cinematic. The weather system is one of the biggest highlights because it adds so much atmosphere and challenge. A calm daytime flight feels relaxing, while a night approach in rain, low visibility, and crosswinds can feel intense and rewarding.
+
+The aircraft selection is also a major strength. The simulator gives players a wide range of flying experiences, from small general aviation aircraft to business jets, airliners, turboprops, bush planes, floatplanes, and helicopters depending on your installed content. Each aircraft has its own personality, handling, cockpit layout, and learning curve. Some are great for casual exploration, while others demand more serious study and procedure knowledge. That flexibility is one of the reasons the sim has such long-term value.
+
+For beginners, Microsoft Flight Simulator 2020 is surprisingly approachable. You can turn on assists, use simplified controls, follow tutorials, and slowly build your skills. For more serious sim pilots, there is enough depth to practice navigation, radio work, instrument flying, aircraft systems, flight planning, weather decision-making, and proper procedures. It does a great job of being accessible without completely sacrificing realism. You can treat it like a relaxing flying game or a serious training-style simulator, depending on how much effort you want to put in.
+
+The cockpit experience is excellent. Sitting in a detailed cockpit, managing switches, setting up navigation, adjusting radios, monitoring instruments, and flying an approach gives the sim a strong sense of immersion. With a good joystick, throttle, rudder pedals, or yoke setup, the experience becomes even better. The game rewards hardware investment, but it does not require a full cockpit setup to be enjoyable.
+
+The flight planning and navigation side of the game is another major selling point. You can fly visually by landmarks, use GPS, follow VORs, fly IFR routes, shoot instrument approaches, or use third-party tools to create more realistic airline-style flights. There is a real sense of accomplishment when you plan a route, depart properly, navigate across distance, manage fuel, descend on profile, and land successfully at your destination.
+
+The airport coverage is massive. Even small local airports are represented, and the handcrafted airports add extra detail to major locations. The ability to fly almost anywhere on Earth gives the game unmatched replay value. You are never really “done” with Microsoft Flight Simulator because there is always another route, aircraft, region, airport, weather condition, or challenge to try.
+
+The community and add-on ecosystem are also huge positives. There are aircraft, liveries, scenery improvements, airports, utilities, mods, and flight planning tools that can dramatically expand the experience. The marketplace and external add-on community help keep the simulator fresh. Whether you are into airliners, bush flying, helicopters, military-style flying, historical aircraft, or general aviation, there is almost always something available to support that niche.
+
+Performance can vary depending on your system, settings, and location, but when the sim is running well, it is one of the most immersive experiences on PC. It is demanding, but that is not surprising considering what it is trying to do. This is a game rendering the entire planet, complex aircraft, weather, traffic, lighting, and huge amounts of scenery. With the right settings dialed in, the experience is absolutely worth it.
+
+One of the best things about Microsoft Flight Simulator 2020 is that it creates memorable moments constantly. Taking off from a small mountain airport at sunrise, flying over your hometown, landing at a major international airport in bad weather, cruising above cloud layers, or finding a random remote airstrip can all feel special. It captures the freedom and beauty of aviation better than almost anything else.
+
+It also has real educational value. You can learn basic aerodynamics, airport operations, navigation, weather awareness, aircraft systems, and flight procedures. It will not replace real flight training, but it can absolutely help build familiarity with cockpit layouts, navigation concepts, checklists, and aviation terminology. For anyone interested in aviation, it is a fantastic entry point.
+
+Overall, Microsoft Flight Simulator 2020 is a landmark simulator. It is beautiful, detailed, flexible, massive in scope, and endlessly replayable. It works both as a relaxing exploration game and as a serious aviation platform. Whether you are a casual player who wants to see the world from above or an aviation enthusiast who wants to practice realistic procedures, there is a tremendous amount of value here.
+
+Final Verdict: Absolutely recommended. Microsoft Flight Simulator 2020 is not just one of the best flight simulators available; it is one of the most impressive simulation experiences ever made.",True,2026-05-11 16:31:00,english,3113
+Microsoft Flight Simulator,Simulasyon,"Unable to download the 30gb+ update file. Always stuck at 15mbps. The game was not always like this. This a clean install. If you pause it, it will always start over from 0. Followed multiple troubleshooting steps, DNS, Netsh, etc. Nothing changes it. Definitely purchase this is you want a nice paperweight in your games list.",False,2026-05-11 01:04:40,english,5093
+Microsoft Flight Simulator,Simulasyon,"No le crean a esas 35 horas de juego, solo eh jugado como 8 horas, el resto es pura instalacion de contenido que se tarda una eternidad.
+Antes en Windows se me quemaba la pc jugando, incluso en graficos minimos me iba mal y hasta se me apagaba la pc, ahora en linux puedo al menos jugar mas normal, aunque no es perfecto, aveces las lineas de voz no suenan, los desafios se buguean, a sido el juego mas caro que comprado alguna vez y la verdad no lo juego mucho, pero el sentir volar, es increible, ahora lo puedo disfrutar mas, solo llevo unas cuantas horas de probarlo en linux, 7/10",True,2026-05-10 21:29:07,latam,2108
+Microsoft Flight Simulator,Simulasyon,"This game is amazing, especially on PC as you can get what ever addons you want for free",True,2026-05-10 17:49:14,english,4046
+Microsoft Flight Simulator,Simulasyon,"Its a Flight Sim, Play it, you'll like it.  Fly under a bridge, or over a famous landmark.  You'll have fun.",True,2026-05-10 15:30:00,english,1135
+Microsoft Flight Simulator,Simulasyon,"Další verze civilního leteckého simulátrou od Microsoftu. Microsoft výrobu tentokrát svěřil francouzskému studiu Asobo, jež má na svědomí třeba akční adventuru A Plague Tale se skvělou grafikou. Aby se to lépe pletlo, tak hra nemá žádné označení verze. Vzhledem k tomu, že vyšla v roce 2020, tak jsem mu dal neoficiálně do závorky tohle datum - někde se to tak také uvádí.
+Simulátor samozřejmě vylepšil hlavně grafickou stránku hry. Stačí se podívat na grafické scenérie v tomto, nebo tomto videu a budete slintat blahem. :)
+Co se týče letadel, tak základní Standard Edition měla při vydání 20 kusů:
+
+Turbovrtulové:
+Daher TBM 930
+Beechcraft King Air 350i
+Cessna 208 B Grand Caravan EX
+
+Moderní airlinery:
+Airbus A320neo (+ v2)
+Boeing 747-8 Intercontinental
+
+Vrtulové:
+Diamond DA62
+EXTRA 330LT
+Flight Design CTSL
+ICON A5
+JMB VL-3
+Robin Cap10
+Robin DR400/100 Cadet
+Beechcraft Bonanza G36
+Cessna 152
+Cessna 172 SkyHawk (G1000) (včetně variant s plováky a lyžemi)
+Zlin Savage Cub
+CubCrafters X Cub (včetně variant s plováky a lyžemi)
+Diamond DA40NG
+Aviat Pitts Special S-2S
+
+Tryskové:
+Cessna Citation CJ4
+
+V bezplatném updatu v listopadu 2021 přibylo dalších 5:
+
+Tryskové:
+Boeing F/A-18E/F Super Hornet
+
+Turbovrtulové:
+Pilatus PC-6/B2-H4 Turbo Porter
+Pilatus PC-6/B2-H4 Turbo Porter G950
+Pilatus PC-6/B2-H4 Turbo Porter G950 floats (plováky)
+Pilatus PC-6/B2-H4 Turbo Porter skis (lyže)
+Aviat Pitts Special S-1S
+CubCrafters NXCub
+Volocopter VoloCity (eVTOL – létající taxi)
+
+40th Anniversary Edition: v listopadu 2022 na 40. výročí vydání prvního Flight Simulátoru byla hra bezplatně povýšena na tuhle edici. Nový obsah této edice (kromě placených přídavků) je majitelům základní hry k dispozici zdarma.
+V základu této edice jsou nové stroje (12):
+
+Historická letadla:
+1903 Wright Flyer
+1915 Curtiss JN-4 Jenny
+1927 Ryan NYP Spirit of St. Louis
+1935 Douglas DC-3 classic
+1937 Grumman G-21A Goose
+1947 de Havilland DHC-2 Beaver (+ Amphibious Floatplane - plováky)
+1947 Hughes H4 Hercules (Spruce Goose – největší dřevěný letoun)
+
+Moderní airliner:
+Airbus A310-300 (plně studiový model s vysokou věrností)
+
+Helikoptéry:
+Guimbal Cabri G2
+Bell Model 407
+
+Kluzáky:
+DG Aviation LS8-18
+DG-1001E neo
+
+Co se týče herních možností, tak je ve hře samozřejmě ""Flight Training"" se 7 oddíly, jež vás naučí pilotáži. Pak je zde sekce ""Discovery Flights"", kde si můžete zalétat na některých vybraných zajímavých místech světa a kochat se krásami různých lokací, jako jsou třeba egyptské pyramidy, Singapur, San Francisko, Mekka a další... U některých lokací je třeba nejprve stáhnout detailnější verzi dané lokace (zdarma). Je zde 11 lokací v základu a dalších 26 je třeba dostahovat, celkem tedy 37. Dále jsou zde ""Activities"", kde jsou různé tématické výzvy: přistávání (3), bush trips (3), TOP GUN Maverick s F/A-18, Dune - ze světa Duny, 40th Anniversary - mise z minulých dílů, nebo si můžete nějaké mise stáhnout z Marketplace. Pro volné létání je zde sekce ""World Map"", kde si prostě vyberete jakékoliv místo, odkud chcete startovat a kam máte namířeno a lítat si dle libosti. Samozřejmě jsou zde všechny letiště, včetně i těch nejmenších v malých zapadlých městečkách někde na Moravě. :) Lze si vybrat jakékoliv letadlo s několika barevnými variantami, počasí, denní dobu, či počasí a denní dobu nastavit i na aktuální stav. Můžete klidně umístit velký Boeing 747, nebo Airbus A320 i na ono malé travnaté letiště někde v Prdelákově a zkusit s ním odstartovat. Já to zkusil a nechal startovat autopilota - ne, nezvládl to. Nedokázal nabrat rychlost a zastavil. :) Ale třeba stíhačka F/A-18 to zvládla. :)
+Přes šikovné menu, jež se objeví po najetí myší na horní okraj obrazovky se dá během hry měnit a ovládat řada věcí. Zapínat autopilota, teleportovat se do větší výšky, měnit počasí a denní dobu, přepínat kameru atd, atd...
+Hra se dá ovládat myší a klávesnicí, ale lepší je použít joystick. Pomocí myši můžete ovládat i ovládací prvky v kokpitu letadla. No..., nebudu vám lhát, moc mi to nešlo. :) Třeba v sérii Sturmovik se mi daří létat docela obstojně, ale u malých civilních letadel je ovládání poněkud složitější. Pokusím se s letadlem klasicky zatočit, nakloním ho a mírně zvednu čumák (jako ve Sturmoviku), ale ovládání má takové zpoždění, že po každém pokusu zatočit se mi pořád letadlo naklání střídavě na jednu a druhou stranu, protože to pořád přeháním, až to divoké kolébání nezvládnu a letadlo se pod šíleným úhlem řítí k zemi. Konzultoval jsem to s AI a to mi řeklo, že tenhle problém má hodně nezkušených hráčů. Pilotování malých civilních letadel, jež dosahují malých rychlostí je údajně daleko obtížnější, než hbité a rychle reagující stíhačky z druhé světové války. Ovšem zajímavé, že stejný problém mám i se stíhačkou F/A-18 - ta by snad měla také reagovat hbitě??? Musí se prý různě přenastavit citlivost jednotlivých os joysticku a používat jakési trimování. Pokusil jsem se na to pomocí onoho AI přijít na kloub, joystick přenastavit, ale je to na mě prostě moc složitý a nepomáhá to. Ale i tak je celkem zábavné, si na mapě světa vytyčit nějakou trasu, zapnout autopilota a jen se rozhlížet a kochat. :)
+Multiplayer:
+Lze létat offline, nebo se přepnout do online světa a potkávat ostatní hráče. Zkoušel jsem to, ale ostatní hráči byli jen na minimapě a i když jsem měl být blízko nějakého letadla, tak jsem žádné neviděl...
+Plusy:
+NAPROSTO LUXUSNÍ 4K grafika přírody i kokpitu!!!
+Přímo v menu je Marketplace, kde si do hry můžete stáhnout dodatečný obsah od komunity. Jsou tam i věci zdarma. Třeba je tam detailnější mapa centrálně-východní Evropy přímo od Microsoftu (Central Eastern Europe - 15,4 GB). Nebo jsou tam, rovněž zdarma, enhanced verze letadel A310-300, A320neo a DC-3.
+Mínusy:
+Tradičně vysoká cena.
+Po instalaci hry na Steamu se ještě musíte přihlásit na XBox Game Studio Microsoft účtem.
+Po instalaci hry ze Steamu (asi cca 1,5 GB - ano je to podezřele málo) si hra stáhne ze serverů Microsoftu dalších asi 163 GB. Stahování není moc vychytané. Ano, můžete ho třeba zapauzovat, když potřebujete, ale když se třeba přepojíte během stahování z wi-fi na kabel, nebo se vám seknou Windows, jako se stalo zrovna mě, tak stahování začíná úplně od začátku. :( Navíc hra ještě po 6 letech dostává časté updaty a třeba po prvním týdnu se mi stahovalo před spuštěním dalších 380 MB updatů.
+Nechápu, proč nemá hra žádné označení verze, takhle se bude plést s jinými díly (jako by to byla první verze).",True,2026-05-10 08:39:10,czech,1385
+Microsoft Flight Simulator,Simulasyon,i love this game very good game and good graphics but is a bit buggy and requires a good pc my specs are ok for max graphics (shown below),True,2026-05-09 18:26:52,english,32725
+Microsoft Flight Simulator,Simulasyon,oyunda farklı meydan da uçuş yapamıyorum world map te seçtiğimde hep münih meydan çıkıyor asla düzelmiyor,False,2026-05-21 16:07:22,turkish,3955
+Microsoft Flight Simulator,Simulasyon,I've been crashing into my ex-gf's house for the last 12 hours. This game never gets old!,True,2026-05-21 21:16:17,english,2463
+Microsoft Flight Simulator,Simulasyon,Sim runs great and looks great but not being able to setup a vacuum system fail and fly partial panel is NOT ACCEPTABLE. This was a basic feature that FSX had.,False,2026-05-28 23:56:00,english,4608
+Microsoft Flight Simulator,Simulasyon,підорасі галиміе не дают нормальній фпс на моем ахуенном (нищем) железе и я вінужден дрочить на 20 фпс с фремгеном,True,2026-06-06 18:25:17,english,13955
+Microsoft Flight Simulator,Simulasyon,good game but i wanted to fly from singapore to new york and my autopilot didnt work at ALL. 9/10 game,True,2026-05-18 19:42:10,german,766
+Microsoft Flight Simulator,Simulasyon,"Nach über 1k Stunden immer noch super, wenn man sich mit der Luftfahrt beschäftigt oder einfach fasziniert am Fliegen ist !",True,2026-05-11 21:55:06,german,66683
+Microsoft Flight Simulator,Simulasyon,good game. kinda mid sometimes though but fun. other games are better but not bad game,True,2026-06-03 15:11:06,english,4256
+Microsoft Flight Simulator,Simulasyon,"great game but planes are a ♥♥♥♥♥♥♥ of money like ive spent over 150 PLN on this game and you get a good handful of planes like the dc-3 a310 747 chef's kiss but when u wanna buy some planes I can spend the exact same price of the game FOR ONE PLANE like what kinda ♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥♥ is that.
+
+Great flight sim game and great for getting u bankrupt",True,2026-05-27 21:48:24,english,1560
+Microsoft Flight Simulator,Simulasyon,"As I am writing this review, the game is still downloading - not even close to halfway the total of 130gb after 49 hours.
+Yes, that's right. It's been downloading for 49 hours.
+
+I have yet to be able to even actually start playing the game.
+
+So for those who quickly want to try this out to see if it's something for them: *just don't* and go try some other flight sim first, because  there is no way you can try it and get reimbursed if you don't like it.
+The download comes through an xbox installation manager, so in steam it is registered as playing time..
+
+Now as for me, this download farce (which has been going on for years apparently) makes give this a big thumbs down. 
+The game might be great (we'll see, I'm a patient man), and I might enjoy it very much, but it won't change to a positive review because it is simply criminal negligence by microsoft not to have dealt with such a big well known issue from the start.
+
+PS: I have tried different methods (VPN and other workarounds), but nothing worked to speed things up a little.
+
+PPS: having been able to finally play this game: it looks amazing (flying by Naples at sunset is a treat) and it seems to work flawlessly so far.
+That being said, the fact it takes literal days to download still doesn't make it a thumbs up for me.",False,2026-05-10 08:25:58,dutch,4969
+Microsoft Flight Simulator,Simulasyon,c trop bien comme jeu par contre je recommande d'y jouer seulement avec un manche pas avec un clavier souris,True,2026-05-17 10:28:17,french,6659
+Microsoft Flight Simulator,Simulasyon,"after you actually download it after 2 decades its fun 
+can fly a plane
+only for a few seconds though",True,2026-06-06 10:10:55,english,3684
+Microsoft Flight Simulator,Simulasyon,what... what if... it was called microsoft fight simulator and you walk to microsoft headquaters and infiltrate their servers there is 50 hours of gameplay and then you get to the final room stick with me ok the light gets all dim and bill ♥♥♥♥♥♥♥ gates is there and you duel him and it turns into a soulslike and billiard is the equivalent of elden ring boss idk i havent played enough of elden ring to give an exact name of who he could be equivalent to but you get the vision right? yeah you get it so then after you fight the game turns into a perfect replica of the universe but you have billiums vast fortune and can spend it all but then you get arrested because of murder! so it then simulates the events of Yoshie Shiratori and his fight against the japanese legal system during world war two and you have to escape from FOUR prisons and then you have to beat celeste farewell for good measure idk why i guess billy as a game designer is mad but when you beat fairwell you become madeline celeste yeah that would be cool idk i think it has potential microSOFT take notes...,True,2026-05-23 08:43:51,english,253
+Microsoft Flight Simulator,Simulasyon,"It Is A Really Good Game If You Do Not Want To Spend The Extra Money To Get MSFS 2024, It Is Basicially The Same Except Some Things",True,2026-05-11 01:29:11,english,2467
+Microsoft Flight Simulator,Simulasyon,I hit the towers and I hit the pentagon. Party like it's 2001. Say wallahi bro say wallahi.,True,2026-06-05 20:53:44,english,3805
+Microsoft Flight Simulator,Simulasyon,Msfs 2020 runs shockingly well on my system and its great fun,True,2026-05-30 08:42:51,english,794
+Microsoft Flight Simulator,Simulasyon,"The Graphics are great; but trying to fly an airliner from say London to Frankfurt is fraught with all sorts of problem; e g Airport objects, vehicles, forklift trucks etc in middle of taxiways { I have a screen shot  of  A windsock in the middle of a major taxiway junction. When you do finaly get to designated runway other  planes block your way very often until they just fade out or in some cases taxi straight through you. and that's another bind starting your journey inside another aircraft. Anyway we have been given permission to line up and take off  part way down you take off roll you realise there are planes taking off towards you  or when retuning to Heathrow planes are landing from the opposite end.  The go to your destination is bad  , like I pressed go to LHR whilst over France in a 747  what actually happened we were doing 220knots at 100 feet over the English Channel .BAD ?????? n previous editions you not only had a proper world map, but you Had an alphabetical list of all the countries of the  world with many of there airports and you just selected one in one country and then the other in another country and hey presto the flight plan and of you went.  Now you have an amorphus globe with little white dots on it which you have to  guess and zoom in a lot to even read. The is a word for this offering but you would not print it; then there's vectors which are 90degrees  and then 150; then 75 al withing seconds and to the same waypoint; I could go on but it gets boring.  But i would say if I could MFS2012 to work on windows eleven I would go back in a flash, better game play, better aircraft fleets , I can do with out the pretty picture money pit.",False,2026-05-27 15:55:26,english,8108
+Microsoft Flight Simulator,Simulasyon,I've enjoyed flightsim since it was version 2.0 on the ATARI XEGS. Its come a long way and 2020 is great. i like it well enough that i haven't bothered with 2024 yet!,True,2026-05-27 04:34:46,english,21783
+Microsoft Flight Simulator,Simulasyon,"i spend more time downloading updates and fighting with settings than i do flying.  HOW IS THERE NOT A SIMPLE OPTION FOR PANEL CUSTOMIZATION! I want to practice in a 172 with a basic 6 pack and 430w setup for my ifr rating, but msfs 2020 says, ""you'll use a dual g1000 or nothing at all, you broke ♥♥♥♥♥.""  ♥♥♥♥ customization.",False,2026-05-22 04:59:36,english,12509
+Microsoft Flight Simulator,Simulasyon,I love the graphics improvement over FSX. ATC is improved but still could use more improvement. VATSIM might be a better option.,True,2026-05-21 02:11:48,english,20441
+Microsoft Flight Simulator,Simulasyon,"Beautiful. Interesting. Fun to fly over places I've been, from a bird's eye view. Exploring new places, mapping places I'd like to go in the future. 
+Map 'filler' 3D models of buildings is very innacurate for most places (duh) such as smaller cities, etc., and is laughable. Terrain models are not always finalised to levels of detail for things such as flying under bridges (we're talking the whole world is mapped here, so a break is given). 
+
+Overall, the kid in me is wowed after playing early editions of MSFS, being able to do what we can today. 
+
+If you're a flight sim fan, explorer, photographer, buy it (on sale).",True,2026-05-19 22:27:43,english,2531
+Microsoft Flight Simulator,Simulasyon,This game is the best sim I've ever played my dream is to be a pilot and being able to fly planes at the age of 10 is a great experience and before I started to fly I didn't know a thing about a plane and know I can go to an airport and fly a plane with no hesitation.,True,2026-05-17 17:33:43,english,2190
+Microsoft Flight Simulator,Simulasyon,I can no longer log in. it doesn't even show a valid QR code. this is laughable. SOMEBODY fix this (it's easy)! i might sell all of my MSFT stock...,False,2026-05-16 02:43:44,english,1692
+Microsoft Flight Simulator,Simulasyon,bardzo dobre i realistyczne i można rozbić się o swoją własną chałupe,True,2026-05-14 17:30:19,polish,456
+Microsoft Flight Simulator,Simulasyon,all i can say is a load of rubbish free scenery has mess ups like massive holes in the floor etc you cannot do anything without it messing up,False,2026-05-10 10:58:53,english,34631
+Microsoft Flight Simulator,Simulasyon,Сам являюсь пилотом в реальном мире. Но жить без полетов не могу. Плюс подспорье к постоянному усовершенствованию своих знаний.,True,2026-05-09 15:39:18,russian,14149
+Microsoft Flight Simulator,Simulasyon,Have played this game for off and on for a few years. Now this XBox login bullcrap! I get signed in and I have to allow the app to track my data even when I'm not useing the app. SCREW THIS AND SCREW YOU MICRO TRASH!!!!!! THIS.... THIS IS THE VERY REASON PEOPLE ARE LEAVING WINDOWS AND XB! YOU SUCK AND YOU LOST A CONSUMER TODAY!,False,2026-05-09 15:08:55,english,11546
+Microsoft Flight Simulator,Simulasyon,Program stalls out most of the time just sits there and spins.  I have 2024 MFS not steam version and I don't have this problem.,False,2026-06-07 12:56:55,english,52234
+Microsoft Flight Simulator,Simulasyon,The MAX plane is fun and pretty easy to control but what I do not like is controlling any Airbus plane,True,2026-06-07 19:50:22,english,25267
+Microsoft Flight Simulator,Simulasyon,"Жахлива оптимізація, 120Гб зайнятого місця, відсутність сюжетної кампанії, замилена поверхня злітних смуг, купа платного контенту і відсутність української локалізації. Це те що мене дратує в даній грі. 
+З позитивного: висока реалістичність та симуляторна складова. Літаки гарні, погодні умови що імітують реальну погоду та час.",False,2026-06-06 11:11:35,ukrainian,7446
+Microsoft Flight Simulator,Simulasyon,I suggest buying pedals and steering for the full effect!,True,2026-06-05 05:36:15,english,1042
+Microsoft Flight Simulator,Simulasyon,"Super fedt spil, grafikken er super, selvom man måske ikke har den bedste PC, og i alt bare et fedt spil",True,2026-05-25 12:05:51,danish,14959
+Microsoft Flight Simulator,Simulasyon,It does indeed teach you how to fly. Still a good choice for 2026. Most people agree that the newest version was a let-down.,True,2026-05-15 15:38:11,english,1657
+Microsoft Flight Simulator,Simulasyon,Perfect. But I really wish Microsoft would update the scenery for China - I hope they do badly,True,2026-05-11 17:33:27,schinese,37070
+Microsoft Flight Simulator,Simulasyon,SİMDİ SOLE SOYLEYEYİM BU OYUN BENİM  PCMDE BİLE RAHATLIKLA ACILIYOR VE KASMIYOR MEDİUM AYARLARDA RAHATLIKLA OYNAYABİLİRSİNİZ GRAFİK DESEM OARAYA GELMEYİM CIKAMAM 2024 TEN BİLE DAHA GERCEKCİ BEKLEYABİLEN YAZ BASI VE KIS BASINDA FENASAL İNDİRİM YAPIOLAR 700TL NİM ALTINDA GORURSENİZ DİREKT ALIN NOKTA,True,2026-05-10 20:30:42,turkish,1289
+Microsoft Flight Simulator,Simulasyon,Sehr toller Simulator wo alles sehr perfekt getroffen ist wie in der Wirklichkeit einfach toll das Spiel.,True,2026-05-09 19:10:31,german,1899
+Microsoft Flight Simulator,Simulasyon,great for flows and flight training review in parallel with time in the plane.,True,2026-05-27 02:03:52,english,4089
+Microsoft Flight Simulator,Simulasyon,"The more I play MSFS 2020, the more amazed I am by the graphics—simply incredible. I probably won't be switching to any other flight sim platform for a very long time. Highly recommended!",True,2026-05-19 14:37:15,english,23717
+Microsoft Flight Simulator,Simulasyon,"Ta gra to największe gówno jakie kupiłem, takich szczyn to kur*a się nie spodziewałem.
+Twórcy tej gry tak lecą na kasę, że 99% pojazdów trzeba kupić (są cholernie drogie).
+Sam tutorial jest tak wkur***jący, że po 5 min od włączenia gry mam ochotę skoczyć z mostu, a twórcy zadbali żebyście nie mogli zwrócić tej gry, z tego powodu pobieranie 100 giga odbywa się po odpaleniu gry.
+Brawo microsoft! (Jeb*ć was)",False,2026-05-29 15:20:52,polish,371
+Microsoft Flight Simulator,Simulasyon,Why is the Marketplace grayed out? You are unable to buy different aircraft? WTH?,True,2026-06-05 10:37:47,english,15322
+Microsoft Flight Simulator,Simulasyon,"Hallo,wie bekomme ich bezahlte Flugzeuge (wie die A 300 ) in das Spiel ,im vorraus vielen Dank",True,2026-05-11 15:35:06,german,1761
+Microsoft Flight Simulator,Simulasyon,"летел на авиалайнере и в кабине увидел рулетку и подумал что в самолёт встроено казино, я начал раскручивать рулетку, примерно через 10 секунд я заметил что самолёт агрессивно начал пищать, я подумал о выиграл джекпот но после того как я отдалил камеру я понял что мой огромный авиалайнер крутит тройную кобру. вывод: не играйте в казино в самолёте",True,2026-06-06 19:22:14,russian,2900
+Microsoft Flight Simulator,Simulasyon,abi ♥♥♥ iyi oncelikle kaan kazgan muaz737 türkiye subesi flybywire 32nx mcdu init-init req f-pln sid/star line up rw 27r egll-eddf clmb fl350 dsc fl100 dsc fl20 ap off vis appr reverse ind taxi,True,2026-06-04 19:26:47,turkish,3019
+Microsoft Flight Simulator,Simulasyon,"I love it! Buy X-Plane for truer simulation experience, though.",True,2026-05-27 19:46:26,english,22330
+Microsoft Flight Simulator,Simulasyon,"[h1]Review zu Microsoft Flight Simulator (2020) 40th Anniversary Edition[/h1]
+
+Der Microsoft Flight Simulator (2020) gehört zweifellos zu den technisch beeindruckendsten Spielen der letzten Jahre. Bereits vor dem Release sorgten die ersten Gameplay-Vorführungen für Aufsehen, denn Microsoft und Asobo Studio versprachen nichts Geringeres als eine nahezu vollständige digitale Nachbildung unseres Planeten. Satellitendaten, Luftaufnahmen, Cloud-Technologien und Echtzeit-Wetter sollten eine Flugsimulation erschaffen, die ihresgleichen sucht.
+
+Und tatsächlich: Der Flight Simulator liefert genau das. Gleichzeitig bringt er aber auch einige Probleme mit sich, die insbesondere Neueinsteiger kennen sollten.
+
+Bereits die ersten Minuten vermitteln eindrucksvoll, wie ambitioniert dieses Projekt ist. Statt einzelner Karten oder Regionen steht dem Spieler praktisch die gesamte Erde zur Verfügung. Egal ob Großstädte, Gebirge, Küstenregionen oder kleine Dörfer – nahezu jeder Ort der Welt kann angeflogen werden. Selbst das eigene Zuhause kann entdeckt werden.
+
+Besonders beeindruckend ist dabei die grafische Darstellung. Wettereffekte, Wolkenformationen, Sonnenauf- und -untergänge sowie die Beleuchtung sorgen regelmäßig für Momente, in denen man vergisst, dass man gerade ein Videospiel spielt.
+
+Der Flight Simulator ist eines der wenigen Spiele, bei denen das bloße Umherreisen bereits einen Großteil des Spielspaßes ausmachen kann.
+
+Der wohl beeindruckendste Aspekt des Spiels ist die digitale Nachbildung der Erde.
+Es ist ein besonderes Gefühl, den eigenen Wohnort, den letzten Urlaubsort oder berühmte Sehenswürdigkeiten aus der Luft zu betrachten. Selbst Spieler, die normalerweise wenig Interesse an Flugsimulationen haben, könnten allein durch diesen Entdeckungsaspekt Gefallen am Spiel finden.
+
+Die 40th Anniversary Edition erweitert das ohnehin schon umfangreiche Basisspiel zusätzlich um weitere Flugzeuge, historische Maschinen, Hubschrauber und zusätzliche Inhalte.
+
+Der Flight Simulator kann sowohl als anspruchsvolle Simulation als auch als vergleichsweise entspannte Flugerfahrung genutzt werden. Zahlreiche Assistenzsysteme helfen Einsteigern beim Starten, Navigieren und Landen. Gleichzeitig können erfahrene Simulationsfans nahezu sämtliche Hilfen deaktivieren.
+
+Dadurch spricht das Spiel unterschiedliche Zielgruppen an, ohne sich ausschließlich auf Hardcore-Piloten zu konzentrieren.
+
+Allerdings gibt es auch einige Hürden.
+Eine davon begegnet dem Spieler bereits vor dem eigentlichen Spielstart.
+Obwohl das Spiel über Steam heruntergeladen wird, ist die Installation nach dem ersten Start noch lange nicht abgeschlossen. Stattdessen muss ein erheblicher Teil der Daten erst innerhalb des Spiels heruntergeladen und installiert werden.
+Das empfinde ich als äußerst problematisch. Bevor man den Flight Simulator überhaupt richtig ausprobieren kann, läuft bereits Spielzeit auf Steam auf. Unter Umständen kann dies dazu führen, dass die Rückerstattungsfrist überschritten wird, bevor man überhaupt beurteilen konnte, ob das Spiel auf dem eigenen System zufriedenstellend läuft oder den eigenen Erwartungen entspricht.
+Für mich wirkt das wie eine äußerst fragwürdige und fiese Geschäftspraktik, die insbesondere bei einem Spiel dieser Größe und Downloadmenge unangenehm auffällt.
+
+Die beeindruckende Grafik hat selbstverständlich ihren Preis. Der Flight Simulator gehört auch Jahre nach seiner Veröffentlichung noch zu den anspruchsvolleren Spielen auf dem Markt. Je nach Einstellungen, Flugzeugtyp und Region können die Hardwareanforderungen erheblich ausfallen.
+Zusätzlich ist das Spielerlebnis stark von einer stabilen Internetverbindung abhängig, sofern man die umfangreichen Online-Datenströme nutzen möchte.
+Hinzu kommen gelegentliche Bugs, Streaming-Probleme oder Darstellungsfehler, die bei einem Projekt dieser Größenordnung zwar verständlich, aber dennoch vorhanden sind.
+
+Wer klassische Missionen, eine Kampagne oder ständig neue Herausforderungen sucht, könnte sich relativ schnell langweilen. Der Flight Simulator lebt nicht von einer Handlung oder einem Progressionssystem, sondern vom Fliegen selbst.
+Viele Stunden verbringt man damit, Flugrouten zu planen, Instrumente zu bedienen, Wetterbedingungen zu berücksichtigen oder einfach Landschaften zu erkunden.
+Für Simulationsfans ist genau das der Reiz. Für andere SpielerInnen kann es hingegen schnell monoton wirken.
+
+[h3]Gutes & Schlechtes:[/h3]
+
+[u][b]Pro:[/b][/u]
+
++ Technisch beeindruckende Darstellung
++ Nahezu die gesamte Erde frei erkundbar
++ Fantastische Wetter- und Wolkeneffekte
++ Hoher Realismusgrad
++ Viele Flugzeuge und Inhalte
++ 40th Anniversary Edition erweitert das Spiel sinnvoll
++ Geeignet für Einsteiger und Profis
++ Entspannendes Spielerlebnis
++ Beeindruckender Entdeckungsfaktor
++ Man kann mit Passagierflugzeugen sogar loopings fliegen. Hab dann gerne Schreie eingefügt von YouTube die durch das Flugzeug gedämpft waren, war witzig
+
+[u][b]Contra:[/b][/u]
+
+- Zusätzliche Ingame-Installation nach dem Steam-Download dadurch entstehen mögliche Probleme mit der Steam-Rückerstattung durch die Installationszeit
+- Sehr hoher Speicherbedarf. Ein Grund warum das Spiel zurzeit nicht auf meiner Platte installiert ist
+- Hohe Hardwareanforderungen
+- Teilweise starke Abhängigkeit von einer Internetverbindung
+- Gelegentliche Bugs und Streaming-Probleme
+- Für Nicht-Simulationsfans möglicherweise schnell eintönig
+
+[u][b]Prontra:[/b][/u]
+
++- Sehr langsames Spieltempo
++- Kaum klassische Spielziele
++- SpielerInnen müssen sich oft eigene Ziele setzen
++- Hohe Einarbeitungszeit bei komplexeren Flugzeugen
+
+Der Microsoft Flight Simulator (2020) – 40th Anniversary Edition ist weniger ein klassisches Spiel als vielmehr eine technische Demonstration dessen, was moderne Simulationen heute leisten können. Die Möglichkeit, nahezu jeden Ort der Erde zu besuchen, ist bis heute beeindruckend und sorgt regelmäßig für echte Wow-Momente.
+
+Gleichzeitig verlangt das Spiel Geduld, Interesse an Luftfahrt und die Bereitschaft, sich auf ein vergleichsweise langsames Spielerlebnis einzulassen. Wer Action, eine spannende Kampagne oder permanente Fortschrittssysteme sucht, wird hier vermutlich nicht glücklich.
+
+Der Flight Simulator bleibt eine beeindruckende Flugsimulation und eines der technisch faszinierendsten Spiele seiner Generation. Für Luftfahrtbegeisterte ist er nahezu alternativlos, für alle anderen vor allem ein außergewöhnlicher virtueller Reiseführer rund um den Globus.
+
+Ich danke fürs Lesen und wünsche sehr viel Spaß beim Spielen! ;-)
+
+[code]Hast du noch mehr Interesse an Reviews wie diese? Dann besuche doch meine [url=https://store.steampowered.com/curator/34784076/]Steamkuratorseite![/url] ;-)[/code]",True,2026-05-31 08:37:20,german,348
+Microsoft Flight Simulator,Simulasyon,Its A great simulator the 747 has a nice interactive cockpit!,True,2026-05-28 23:06:15,english,6035
+Microsoft Flight Simulator,Simulasyon,simplesmente incrivel adorei o jogo mas recomendo jogar no controle,True,2026-06-06 13:05:12,brazilian,1353
+Microsoft Flight Simulator,Simulasyon,垃圾游戏，一直卡着加载不进去,True,2026-05-23 04:02:17,schinese,2409
+Microsoft Flight Simulator,Simulasyon,"In 1 second planes sounded very realistic, until i realised that is my PC.",True,2026-06-04 20:04:19,english,1946
+Microsoft Flight Simulator,Simulasyon,"play for 9 hours no problems, THEN it starts bugging me with ""login to xbox"" and all kinds of other Microsoft brand hooey. I'm only playing singleplayer, so... NO! also, the sign in screen is broken, making complying with their orwellian crud impossible. All of their products are slowly breaking one by one. Put this one in the ""never play again"" bin now too, and make note to never purchase one of their products again, or they may ""change the deal"" after the fact.",False,2026-06-02 04:53:12,english,592
+Microsoft Flight Simulator,Simulasyon,"doesn't lag surprisingly on an HP gaming pc :sob:
+pretty entertaining",True,2026-05-09 14:28:31,english,11212
+Microsoft Flight Simulator,Simulasyon,"it is for every one that have hobby in aviation, it is too much seem to reality.",True,2026-05-28 15:28:40,english,66739
+Microsoft Flight Simulator,Simulasyon,"If you are a Aviation Fan, then MSFS 2020 is the best game for you, played for 1000 hours and no regret to purchase it. Variety of Mods whole world to fly on! Game graphics are crazy! Must try Once !",True,2026-05-20 21:00:13,english,64806
+Microsoft Flight Simulator,Simulasyon,"Fed up of it not letting me login with my account that I have used many times before, uninstalled. Why do you even need to login to use a game, so annoying.",False,2026-05-13 16:38:36,english,14357
+Microsoft Flight Simulator,Simulasyon,игра отличная для отдыха но есть одно без vpn не работает.,True,2026-05-29 07:54:41,russian,2502
+Microsoft Flight Simulator,Simulasyon,"Realistisches fliegen, AI Flugverkehr ist bei FSX realistischer,",True,2026-05-13 11:13:21,german,28574
+Microsoft Flight Simulator,Simulasyon,its fun to play and lern about airplanes,True,2026-06-04 10:01:12,german,556
+Microsoft Flight Simulator,Simulasyon,worlds longest download time but its worth it,True,2026-05-12 12:38:30,english,8925
+Microsoft Flight Simulator,Simulasyon,一天隨便一開都是兩小時在過的,True,2026-06-05 15:20:55,tchinese,2758
+Microsoft Flight Simulator,Simulasyon,Good graphics but needs a good GPU to run,True,2026-06-03 15:20:27,english,2156
+Microsoft Flight Simulator,Simulasyon,eL JUEGO ES UN BUEN SIMULADOR O UN JUEGO DE ARCADE SEGUN LO CONFIGURES Y LA COMPUTADORA QUE TENGAS,True,2026-05-30 19:18:34,spanish,2725
+Microsoft Flight Simulator,Simulasyon,high quality and very smooth gameplay,True,2026-05-27 00:11:29,english,1463
+Microsoft Flight Simulator,Simulasyon,"Yo lo uso en vr, bien configurado se puede usar como VTOL VR, una lastima que mi configuracion no me permita usarlo a mayor resolucion pero me va bien a 2432*1216 con 50mbps de encoding a 40fps con asw a 80fps, usando qsv me permite transmitir en yt mis vuelos asi hay offload al cpu, muy buen sim la verdad recomendado 10/10",True,2026-05-17 21:01:38,latam,9229
+Microsoft Flight Simulator,Simulasyon,Can definitely recommend. The best flight sim so far!,True,2026-05-31 21:37:16,english,19261
+Microsoft Flight Simulator,Simulasyon,ce jeu et vraiment super bien pour les passionner d'aviation,True,2026-06-05 16:13:39,french,1769
+Microsoft Flight Simulator,Simulasyon,"não tem minha casa, mas no geral é foda pra caralho",True,2026-05-26 17:46:25,brazilian,5836
+Microsoft Flight Simulator,Simulasyon,es muy buen simulador un poco dificil pero bueno,True,2026-05-25 03:28:46,spanish,7250
+Microsoft Flight Simulator,Simulasyon,Very fun and challenging!,True,2026-05-17 05:26:40,english,1540
+Microsoft Flight Simulator,Simulasyon,It's ok. With a touch of Microsoft specials(bugs).,True,2026-05-10 17:39:16,english,10208
+Microsoft Flight Simulator,Simulasyon,45 hours of my gameplay were spent downloading the game,True,2026-06-04 13:16:05,english,4136
+Microsoft Flight Simulator,Simulasyon,노트북으로 하는데 돌아가요,True,2026-06-05 15:00:07,koreana,11266
+Microsoft Flight Simulator,Simulasyon,"Super jeux, le meilleur de la simulation aérienne !",True,2026-06-07 15:34:55,french,67780
+Microsoft Flight Simulator,Simulasyon,graficos muy realistas,True,2026-05-31 17:43:44,spanish,354
+Microsoft Flight Simulator,Simulasyon,Very buggy since day 1 and never fixed,False,2026-05-22 03:48:24,english,77210
+Microsoft Flight Simulator,Simulasyon,"Microsoft Flight Simulator 2020:
+
+Majestic
+Immersive
+Cinematic
+Realistic
+Outstanding
+Smooth
+Open-world
+Flying
+Technology
+
+Fantastic
+Legendary
+Immersion
+Graphics
+Highly-detailed
+Thrilling
+
+Smooth
+Immersive
+Masterpiece
+Ultra-realistic
+Legendary
+Aviation
+Thrill
+Outstanding
+Realism
+
+2020",True,2026-05-17 10:34:12,english,7688
+Microsoft Flight Simulator,Simulasyon,grrrr its very bad i like cars better.,False,2026-06-05 16:52:35,english,847
+Microsoft Flight Simulator,Simulasyon,Bardzo fajny symulator 11 września,True,2026-05-22 13:26:41,polish,1958
+Microsoft Flight Simulator,Simulasyon,Microsoft Downloading Simulator 2020,True,2026-05-10 18:32:49,english,4413
+Microsoft Flight Simulator,Simulasyon,no career no point really its pretty sure,False,2026-05-28 01:59:43,english,170
+Microsoft Flight Simulator,Simulasyon,Its a Great flight sim for hi level players,True,2026-05-09 14:17:00,english,7865
+Microsoft Flight Simulator,Simulasyon,"I HOPE THAT I CAN SAY CURSED WORD ABOUT THIS. SO BAD IT ALWAYS KILLING MY KEYBOARD INPUT. EVEN THE COVID ERA 1.0 BETTER THAN THE LAST VERSION. THE PRICEY ADDONS SOMETIMES GET NULL KEYBOARD INPUT, EVEN THO I HAVE HIGH END PC , I AM ALSO DOING CORPORATE WORK, THIS GAME KILLING MY TIME TO TAKE A REST BECAUSE I WASTING MY TIME TO FIXING BUG. MSFS 2024 IS WAY WORSE",False,2026-05-09 07:23:37,english,23384
+Microsoft Flight Simulator,Simulasyon,the best simulation game,True,2026-05-16 17:25:05,english,548
+Microsoft Flight Simulator,Simulasyon,all kinds of bugs. not worth the money,False,2026-05-12 08:25:26,english,3238
+Microsoft Flight Simulator,Simulasyon,跨过晨昏线，越过日界线,True,2026-06-06 17:34:40,schinese,10546
+Microsoft Flight Simulator,Simulasyon,mundo todo em escala real recomendo demais,True,2026-05-10 00:59:56,brazilian,1056
+Microsoft Flight Simulator,Simulasyon,uçaklara ilgisi olan için çok iyi,True,2026-06-03 15:36:15,turkish,3015
+Microsoft Flight Simulator,Simulasyon,飞行很顺,True,2026-05-30 15:36:42,schinese,2931
+Microsoft Flight Simulator,Simulasyon,"ну вроде прикольно, думаю сдам Type Rating a320",True,2026-05-28 13:37:01,russian,74125
+Microsoft Flight Simulator,Simulasyon,"Баги, лаги, нету окна настроек, фиолетовые текстуры, отсутсвует поддержка, майкрософт ♥♥♥♥♥♥♥♥ одноглазые",False,2026-05-09 13:56:05,russian,657
+Microsoft Flight Simulator,Simulasyon,where the ♥♥♥♥ is LTFM bro i wanna take off out of istanbul int,False,2026-05-22 11:44:49,english,5427
+Microsoft Flight Simulator,Simulasyon,"АЛО ДИСПЕТЧЕР МЫ ПАДАЕМ!
+- понял понял, вычеркиваю.",True,2026-06-04 07:53:17,russian,2191
+Microsoft Flight Simulator,Simulasyon,awesome game if you're into airplanes!,True,2026-05-15 15:58:23,english,31126
+Microsoft Flight Simulator,Simulasyon,Very good in my opinion,True,2026-06-01 22:24:32,english,61071
+Microsoft Flight Simulator,Simulasyon,очень сильно лагает по сравнению с десяткой,False,2026-05-23 07:41:23,russian,11351
+Microsoft Flight Simulator,Simulasyon,the best flight sim i have ever played,True,2026-05-19 00:28:51,english,4193
+Microsoft Flight Simulator,Simulasyon,Otimo jogo pra quem busca simulacao,True,2026-05-16 16:04:24,brazilian,13511
+Microsoft Flight Simulator,Simulasyon,Very good flight sim. 10/10.,True,2026-05-15 21:50:19,english,11037
+Microsoft Flight Simulator,Simulasyon,bien avec un bon simulateur le jeu et pépite,True,2026-05-13 15:25:36,french,1274
+Microsoft Flight Simulator,Simulasyon,Melhor simulador já feito.,True,2026-05-10 19:58:17,brazilian,5508
+Microsoft Flight Simulator,Simulasyon,This game endlessly crashes.,False,2026-05-31 22:22:02,english,4978
+Microsoft Flight Simulator,Simulasyon,Very real with some of the aircraft,True,2026-06-02 11:52:45,english,69806
+Microsoft Flight Simulator,Simulasyon,"Бизнесмен летит на двухместном самолете с женой, она чем-то обижена и он решает её позабавить. Кивает на пилота: 
+— Хочешь я ему 5$ дам, он мне руку поцелует? 
+Она: 
+— Фи…
+— Хочешь я ему 100$ дам он, мне ногу поцелует? 
+Она: 
+— Фи…
+Пилот поворачивается: 
+— Я ща штурвал брошу, ты у меня сосать будешь",True,2026-05-26 19:22:45,russian,29
+Microsoft Flight Simulator,Simulasyon,"godly game, 11/10",True,2026-05-17 08:39:58,english,6613
+Microsoft Flight Simulator,Simulasyon,it was so and i mean so realistic,True,2026-05-25 21:26:57,english,5122
+Microsoft Flight Simulator,Simulasyon,not bad just the a320neo is hard to fly,True,2026-05-11 02:58:44,english,2228
+Microsoft Flight Simulator,Simulasyon,this game helped me more then filght school,True,2026-05-27 00:27:31,english,981
+Microsoft Flight Simulator,Simulasyon,"jogo bom, porem muito pesado",True,2026-05-26 00:16:52,brazilian,327
+Microsoft Flight Simulator,Simulasyon,good but still need improve,True,2026-05-16 12:31:21,english,25148
+Microsoft Flight Simulator,Simulasyon,Goed spel  altijjd iets nieuws .,True,2026-05-10 20:19:21,dutch,13913
+Microsoft Flight Simulator,Simulasyon,3 hour flight ended in crashing my plane,True,2026-05-31 20:16:25,english,2275
+Microsoft Flight Simulator,Simulasyon,En iyi simülatör oyunu,True,2026-05-22 11:01:07,turkish,624
+Microsoft Flight Simulator,Simulasyon,best game i've ever played,True,2026-05-18 15:54:18,german,25898
+Microsoft Flight Simulator,Simulasyon,Very detailed and fun,True,2026-05-28 00:23:34,english,1228
+Microsoft Flight Simulator,Simulasyon,Improved a lot since the date of release,True,2026-05-16 08:33:16,english,26732
+Microsoft Flight Simulator,Simulasyon,if i had a dime for every time msfs ctd'd id be a billionaire,False,2026-05-10 18:32:02,english,47354
+Microsoft Flight Simulator,Simulasyon,i like the vast selection of aircraft,True,2026-06-02 02:51:56,english,267177
+Microsoft Flight Simulator,Simulasyon,really good game,True,2026-05-29 23:47:07,english,916
+Microsoft Flight Simulator,Simulasyon,its still really good,True,2026-05-23 13:41:05,english,4123
+Microsoft Flight Simulator,Simulasyon,Very good game,True,2026-05-22 21:29:37,english,14602
+Microsoft Flight Simulator,Simulasyon,otvorena mapa a vsetko na nej xd,True,2026-05-21 16:39:59,czech,1114
+Microsoft Flight Simulator,Simulasyon,Very decent game!,True,2026-05-19 23:42:30,english,8325
+Microsoft Flight Simulator,Simulasyon,Нашел свою деревню и упал на цесне,True,2026-05-18 17:47:00,russian,4652
+Microsoft Flight Simulator,Simulasyon,melhor sim para estudar,True,2026-05-18 01:58:15,brazilian,125663
+Microsoft Flight Simulator,Simulasyon,Microsoft C'ckblock init,False,2026-05-16 19:36:52,english,2390
+Microsoft Flight Simulator,Simulasyon,good game as as 32748987342678923 yr oold,True,2026-05-15 18:16:58,english,1067
+Microsoft Flight Simulator,Simulasyon,Sure wish this game worked for me : (,True,2026-05-14 08:16:44,english,1321
+Microsoft Flight Simulator,Simulasyon,Not that great of a sim 5/10,True,2026-05-25 03:42:19,english,100172
+Microsoft Flight Simulator,Simulasyon,good game,True,2026-06-06 19:01:02,english,26753
+Microsoft Flight Simulator,Simulasyon,Great game,True,2026-05-26 03:20:06,english,757
+Microsoft Flight Simulator,Simulasyon,Très bonne Simu,True,2026-06-06 20:54:26,french,8393
+Microsoft Flight Simulator,Simulasyon,good,True,2026-06-05 12:08:12,schinese,5930
+Microsoft Flight Simulator,Simulasyon,Гра навіть не запускається..,False,2026-06-04 19:32:07,ukrainian,25
+Microsoft Flight Simulator,Simulasyon,好游戏,True,2026-05-31 10:43:59,schinese,276
+Microsoft Flight Simulator,Simulasyon,its gooooood,True,2026-05-29 00:41:44,english,4281
+Microsoft Flight Simulator,Simulasyon,its great,True,2026-05-27 03:27:34,english,2404
+Microsoft Flight Simulator,Simulasyon,excellent game,True,2026-05-21 21:32:02,english,4529
+Microsoft Flight Simulator,Simulasyon,good game,True,2026-05-21 20:34:40,english,1806
+Microsoft Flight Simulator,Simulasyon,good game,True,2026-05-20 14:21:19,english,326
+Microsoft Flight Simulator,Simulasyon,It is real good.,True,2026-05-17 04:24:00,english,2803
+Microsoft Flight Simulator,Simulasyon,It have a very well done scenarios.,True,2026-05-16 21:47:31,english,32196
+Microsoft Flight Simulator,Simulasyon,planes and stuff,True,2026-05-15 04:06:46,english,9979
+Microsoft Flight Simulator,Simulasyon,nice game,True,2026-05-14 23:00:57,english,6565
+Microsoft Flight Simulator,Simulasyon,it is good,True,2026-05-23 17:22:09,english,2209
+Microsoft Flight Simulator,Simulasyon,good,True,2026-06-06 21:37:59,english,1253
+Microsoft Flight Simulator,Simulasyon,好玩,True,2026-06-06 14:15:29,schinese,2976
+Microsoft Flight Simulator,Simulasyon,its very real,True,2026-06-05 15:18:56,english,3022
+Microsoft Flight Simulator,Simulasyon,bardzo dobra gra na nauke latania,True,2026-05-30 16:41:40,polish,2611
+Microsoft Flight Simulator,Simulasyon,flew a Cessna across the U.S,True,2026-05-30 15:07:36,english,16145
+Microsoft Flight Simulator,Simulasyon,Its Very Good.,True,2026-05-21 19:08:54,english,38890
+Microsoft Flight Simulator,Simulasyon,good,True,2026-05-21 16:41:57,english,7843
+Microsoft Flight Simulator,Simulasyon,very nice,True,2026-05-20 09:53:08,english,3291
+Microsoft Flight Simulator,Simulasyon,realidade total nos voos,True,2026-05-17 09:13:43,brazilian,3961
+Microsoft Flight Simulator,Simulasyon,very fun,True,2026-05-17 03:09:49,english,4271
+Microsoft Flight Simulator,Simulasyon,very good,True,2026-05-13 15:16:26,english,60825
+Microsoft Flight Simulator,Simulasyon,good,True,2026-05-22 08:56:09,english,49
+Microsoft Flight Simulator,Simulasyon,Четкая игра,True,2026-05-09 08:25:47,russian,50721
+Microsoft Flight Simulator,Simulasyon,zzz while ap fly plane is peak,True,2026-05-28 02:37:04,english,13369
+Microsoft Flight Simulator,Simulasyon,so realistic,True,2026-05-27 07:29:44,english,2519
+Microsoft Flight Simulator,Simulasyon,good gamw,True,2026-05-24 05:43:49,english,32026
+Microsoft Flight Simulator,Simulasyon,很真实,True,2026-05-23 13:09:13,schinese,9965
+Microsoft Flight Simulator,Simulasyon,Rivals is worse on g,True,2026-05-18 01:01:19,english,5661
+Microsoft Flight Simulator,Simulasyon,super gra realistyczna],True,2026-05-09 11:45:33,polish,1561
+Microsoft Flight Simulator,Simulasyon,fun,True,2026-05-23 22:16:53,english,1262
+Microsoft Flight Simulator,Simulasyon,its okay,True,2026-05-30 22:22:58,english,59607
+Microsoft Flight Simulator,Simulasyon,Je super.,True,2026-05-09 16:01:34,czech,10567
+Microsoft Flight Simulator,Simulasyon,best way to learn how to fly,True,2026-06-07 14:16:49,english,3418
+Microsoft Flight Simulator,Simulasyon,Still the best.,True,2026-05-22 11:57:22,english,45156
+Microsoft Flight Simulator,Simulasyon,Plen go Brrr,True,2026-06-01 02:49:18,romanian,25890
+Microsoft Flight Simulator,Simulasyon,Probably I'm autistic.,True,2026-05-31 17:49:11,spanish,5251
+Microsoft Flight Simulator,Simulasyon,Гра не запускається. Висне,False,2026-05-28 02:59:49,ukrainian,9
+Microsoft Flight Simulator,Simulasyon,vale la pena cada centavo,True,2026-05-25 23:48:52,latam,1176
+Microsoft Flight Simulator,Simulasyon,gRA SPOKO POLECAM,True,2026-05-17 17:14:13,polish,9608
+Microsoft Flight Simulator,Simulasyon,闪退！！！！！！,False,2026-05-16 15:16:27,schinese,900
+Microsoft Flight Simulator,Simulasyon,waited 24 hours for noting,False,2026-05-10 17:05:53,english,1393
+Microsoft Flight Simulator,Simulasyon,muito bom.,True,2026-05-19 01:05:54,brazilian,9632
+Microsoft Flight Simulator,Simulasyon,i think my houres says it all,True,2026-05-15 13:42:10,danish,201312
+Microsoft Flight Simulator,Simulasyon,"самолеты, круто, летать",True,2026-05-22 18:34:22,russian,1610
+Microsoft Flight Simulator,Simulasyon,muito bom,True,2026-05-09 17:42:26,brazilian,261
+Microsoft Flight Simulator,Simulasyon,zajesbisce,True,2026-05-11 13:36:32,polish,7030
+Microsoft Flight Simulator,Simulasyon,Simply awesome...,True,2026-06-05 04:11:00,english,87148
+Microsoft Flight Simulator,Simulasyon,Muito bom,True,2026-05-29 22:02:46,brazilian,3884
+Microsoft Flight Simulator,Simulasyon,иба чотка,True,2026-05-29 03:57:49,russian,1995
+Microsoft Flight Simulator,Simulasyon,very ♥♥♥♥♥♥,False,2026-05-15 13:26:30,english,1261
+Microsoft Flight Simulator,Simulasyon,espectacular,True,2026-05-14 20:44:49,spanish,3263
+Microsoft Flight Simulator,Simulasyon,Awesome,True,2026-05-10 14:45:31,english,7579
+Microsoft Flight Simulator,Simulasyon,BEST SIMULATOR EVER xD,False,2026-05-09 22:55:11,english,5366
+Microsoft Flight Simulator,Simulasyon,kocham ta gre,True,2026-06-07 19:14:36,polish,2221
+Microsoft Flight Simulator,Simulasyon,Excelente,True,2026-05-10 15:25:26,portuguese,1295
+Microsoft Flight Simulator,Simulasyon,I like airplane,True,2026-05-09 22:23:04,english,1613
+Microsoft Flight Simulator,Simulasyon,waste of money cant even get to the main menu,False,2026-05-18 23:19:51,english,102
+Microsoft Flight Simulator,Simulasyon,vrooooom,True,2026-06-03 19:14:09,english,479
+Microsoft Flight Simulator,Simulasyon,supr dupr hra,True,2026-05-31 11:06:06,czech,1816
+Microsoft Flight Simulator,Simulasyon,круто,True,2026-05-20 07:57:00,russian,9051
+Microsoft Flight Simulator,Simulasyon,круто,True,2026-06-05 16:55:55,russian,966
+Microsoft Flight Simulator,Simulasyon,incroyable,True,2026-06-04 11:45:01,french,1017
+Microsoft Flight Simulator,Simulasyon,spoko gra,True,2026-05-30 19:31:22,polish,95014
+Microsoft Flight Simulator,Simulasyon,gud,True,2026-05-29 00:11:28,english,981
+Microsoft Flight Simulator,Simulasyon,Hell Yeah,True,2026-05-24 02:31:19,russian,8437
+Microsoft Flight Simulator,Simulasyon,mega cute,True,2026-05-16 22:13:12,english,737
+Microsoft Flight Simulator,Simulasyon,TOP DEMAIS,True,2026-05-19 23:12:23,brazilian,77464
+Microsoft Flight Simulator,Simulasyon,ier0tgrdopg,True,2026-05-19 16:45:18,italian,730
+Microsoft Flight Simulator,Simulasyon,the best,True,2026-05-16 02:31:43,spanish,3096
+Microsoft Flight Simulator,Simulasyon,plane,True,2026-05-31 08:12:57,english,8442
+Microsoft Flight Simulator,Simulasyon,einfach darum,True,2026-05-22 14:03:18,german,1181
+Microsoft Flight Simulator,Simulasyon,gut,True,2026-05-16 14:29:41,german,8509
+Microsoft Flight Simulator,Simulasyon,bom,True,2026-05-28 05:25:42,brazilian,68241
+Microsoft Flight Simulator,Simulasyon,Me like,True,2026-05-22 23:58:38,english,610
+Microsoft Flight Simulator,Simulasyon,i like,True,2026-06-07 18:37:59,english,6741
+Microsoft Flight Simulator,Simulasyon,♥♥♥ iyi,True,2026-05-20 19:54:34,turkish,495
+Microsoft Flight Simulator,Simulasyon,todo,True,2026-05-13 22:59:06,spanish,1680
+Microsoft Flight Simulator,Simulasyon,dobra gra,True,2026-05-10 17:50:48,polish,1914
+Microsoft Flight Simulator,Simulasyon,very peak,True,2026-05-09 21:37:45,english,1037
+Microsoft Flight Simulator,Simulasyon,i like plane,True,2026-06-06 13:18:04,english,628
+Microsoft Flight Simulator,Simulasyon,super,True,2026-05-16 15:53:12,french,6748
+Microsoft Flight Simulator,Simulasyon,wow,True,2026-05-15 14:50:14,german,36838
+Microsoft Flight Simulator,Simulasyon,airpane :),True,2026-06-07 03:25:36,english,918
+Microsoft Flight Simulator,Simulasyon,plane!,True,2026-05-11 01:00:40,brazilian,8389
+Microsoft Flight Simulator,Simulasyon,DASD,True,2026-06-06 18:57:46,brazilian,1134
+Microsoft Flight Simulator,Simulasyon,okok,True,2026-05-09 15:12:16,schinese,13440
+Microsoft Flight Simulator,Simulasyon,AIRPLANE,True,2026-05-26 09:19:58,english,14387
+Microsoft Flight Simulator,Simulasyon,yummers,True,2026-05-28 03:48:47,english,1554
+Microsoft Flight Simulator,Simulasyon,norm,True,2026-05-22 19:07:11,russian,12118
+Microsoft Flight Simulator,Simulasyon,yes,True,2026-05-28 19:13:10,english,619
+Microsoft Flight Simulator,Simulasyon,hyvä peli,True,2026-06-08 08:17:23,finnish,2332
+Microsoft Flight Simulator,Simulasyon,ma laif,True,2026-05-23 11:33:04,english,1065
+Microsoft Flight Simulator,Simulasyon,TOP,True,2026-06-06 03:53:58,brazilian,24575
+Microsoft Flight Simulator,Simulasyon,on hyvä,True,2026-05-27 18:43:46,finnish,1633
+Microsoft Flight Simulator,Simulasyon,nein,True,2026-06-06 23:59:58,english,2509
+Microsoft Flight Simulator,Simulasyon,Plen,True,2026-05-24 04:24:10,english,32071
+Microsoft Flight Simulator,Simulasyon,bad,False,2026-05-21 09:19:42,turkish,314
+Microsoft Flight Simulator,Simulasyon,tak,True,2026-05-25 10:21:06,polish,1413
+Microsoft Flight Simulator,Simulasyon,gggggggggggggggggggggggggoooooooooooooooooooooooooooooooedrdddddd,True,2026-05-31 17:39:46,english,10597
+Microsoft Flight Simulator,Simulasyon,Oh yeah,True,2026-05-12 20:38:36,english,1411
+Microsoft Flight Simulator,Simulasyon,j'adorre,True,2026-05-23 09:17:01,french,4130
+Microsoft Flight Simulator,Simulasyon,oui,True,2026-06-01 09:03:48,french,1014
+Microsoft Flight Simulator,Simulasyon,.,True,2026-05-14 11:25:14,koreana,2562
+Microsoft Flight Simulator,Simulasyon,daw,True,2026-05-25 10:39:34,turkish,3357
+Microsoft Flight Simulator,Simulasyon,otimizado dmsssssssssss,True,2026-05-19 20:26:04,brazilian,16582
+Microsoft Flight Simulator,Simulasyon,67,True,2026-05-16 19:31:05,english,1179
+Microsoft Flight Simulator,Simulasyon,n/a,True,2026-05-17 05:17:07,english,35896
+Microsoft Flight Simulator,Simulasyon,ja,True,2026-05-30 09:04:11,german,1200
+Microsoft Flight Simulator,Simulasyon,hi,True,2026-05-16 02:51:53,english,1752
+Microsoft Flight Simulator,Simulasyon,The helicopters sound realkly godffd ANMD 3WEGBEV4ERUHQRTGEIOHJUOSDFGBVUIO;DFGSAB;UIOPRTHGNVITDFORGHBIODFGDJKSGVFBHDK;BVUISDYGVHESDUOILFGIOASDJHCKSalklasJHNCVUIESRFC,True,2026-05-10 19:31:40,english,11530
+Microsoft Flight Simulator,Simulasyon,ehhhh,False,2026-05-18 05:25:25,english,82730
+Microsoft Flight Simulator,Simulasyon,67,True,2026-05-14 13:19:18,english,18651
+Microsoft Flight Simulator,Simulasyon,as,True,2026-06-05 20:44:52,english,7844
+Microsoft Flight Simulator,Simulasyon,aw,True,2026-05-21 17:49:43,french,1367
+Microsoft Flight Simulator,Simulasyon,дзадзывадываъхзац,True,2026-05-19 10:27:51,russian,1225
+Microsoft Flight Simulator,Simulasyon,1,True,2026-05-23 10:44:07,schinese,1778
+Microsoft Flight Simulator,Simulasyon,.,True,2026-06-07 22:58:36,english,4479
+Microsoft Flight Simulator,Simulasyon,hjfgjfjfjfjf,False,2026-05-24 13:36:53,russian,4201
+Microsoft Flight Simulator,Simulasyon,.,True,2026-05-18 07:57:28,english,607922
+Microsoft Flight Simulator,Simulasyon,"Член мне в рот. Купил игру по новогодний акции за 7500 тенге так она стоит 20000 и это просто попа, обьясняю купил ее два месяца назад так и не поиграл изначально при скачивании лаунчера тебе говорят: скачать игру весом в 150 гигов что будет грузиться в среднем при показатели в 30м/с весь день та и еще что В ПЕРВУЮ ОЧЕРЕДЬ тебе надо регистрироваться в Microsoft но получится только если у вас международная эл.почта но это еще так раслабон после того как ты создаешь учетную запись и начинаешь скачивать игру ТЫ ЖДЕШЬ 6 ЧАСОВ СПЕЦИАЛЬНО ЧТОБ ИГРУ НЕЛЬЗЯ БЫЛО ВЕРНУТЬ И ПРИ ЛЮБОМ ПЕРЕЗАХОДЕ ОТКРЫТИИ ЛАУНЧЕРА ТЕБЕ НАХЕР СНОСЯТ УЧЕТНУЮ ЗАПИСЬ (БЛОКИРУЮТ) ТИПА ИЗ ЗА НАРУШЕНИЙ ПРАВИЛ MICROSOFT. Я так понимаю это из за того что ты находишься на территории СНГ то есть ты покупаешь игру за 20000 К тенге (3658 рублей), создаешь учетную запись с международной эл.почтой, качаешь игру 6 часов не в чем не подазривая и тебя нахер сносят, блокируют учетную запись, а так как ты уже типо наиграл 6,5 часиков ТЫ НЕ МОЖЕШЬ ВЕРНУТЬ ЕЕ. В итоге я просрал 1500 руб (7500 тенге) по скидке, не поиграв ни секунды,
+вернуть не могу, остался с не выполненой мечтой поиграть в хороший авиа симулятор, и с плохим мнением о Microsoft. КАТЕГОРИЧЕСКИ, ТАТАЛЬНО не советую тем у кого бабло с неба не сыпется и бо вы просто посмотрите на красивые самолетики нарисованные Майкрософтом при заставке. На этом у меня все, спасибо за внимание...",False,2026-04-06 12:33:52,russian,481
+Microsoft Flight Simulator,Simulasyon,"It worked fine for ages, now it wants to verify my age but neither of the buttons do anything when clicked so I cannot play it any more. Yet more enshittification from Microslop, I'm so sick of it, software seems to only be getting worse :-(
+
+UPDATE: Despite running it several times, the same problem occurred (non-responsive buttons), even in Safe Mode. However, today it started working to my (pleasant) surprise!
+
+POSSIBLE SOLUTION:
+I restarted MSFS several times, at least twice in Safe Mode. I suspect that it must have at some point decided to skip the Verify Age section as possibly not working so maybe try restarting a few times including in Safe Mode a few times. Hope it makes it work for you :-)",False,2026-03-03 10:46:24,english,3490
+Microsoft Flight Simulator,Simulasyon,"Other people have mentioned this, but the game hides the true download size by the 1.6 gig download being only for a launcher, and the game itself being a download inside the launcher at 130 gigs. I refunded when I realized I wouldn't be able to actually play until I had been ""playing"" the game for at least 10 hours because of this. I wasn't sure if I would like this game, so I was relying on the 2 hour play test period. Can't recommend this game due to the hidden download size that deceptively cuts into playtime.",False,2026-03-03 00:54:12,english,13
+Microsoft Flight Simulator,Simulasyon,"~ DIFFICULTY ~
+🔲 My 90 year old grandma could play it
+🔲 Easy
+🔲 Normal
+✅ Hard
+🔲 Dark Souls
+
+~ GRAPHICS ~
+🔲 MS Paint
+🔲 Bad
+🔲 Meh
+🔲 Graphics dont matter in this game
+🔲 Good
+✅ Beautiful
+
+~ MUSIC ~
+🔲 Bad
+✅ Not special
+🔲 Good
+🔲 Eargasm
+
+~ STORY ~
+✅ This game has no story
+🔲 Like playing Temple Runners for the story
+🔲 It's there for the people who want it
+🔲 Well written
+🔲 Epic story
+
+~ PRICE ~
+🔲 Free
+🔲 Underpriced
+🔲 Perfect Price
+✅ Could be cheaper
+🔲 Overpriced
+🔲 Complete waste of money
+
+~ REQUIREMENTS ~
+🔲 You can run it on a microwave
+🔲 Average
+✅ High end
+🔲 NASA computer
+
+~ LENGTH ~
+🔲 Very Short (0 - 3 hours)
+🔲 Short (3 - 15 hours)
+🔲 Average (15-50 hours)
+🔲 Long (50-90 hours)
+🔲 Extremely long (90-110 hours)
+✅ No ending
+
+~ FUN ~
+🔲 I'd rather watch paint dry
+🔲 Hard to enjoy
+🔲 Repetitive
+✅ Actually pretty amusing
+🔲 Ride of your life
+
+~ REPLAYABILITY~
+🔲 It's a one-time experience
+🔲 Only for achievements
+🔲 If you wait a few months/years
+✅ Definitely
+🔲 Infinitely replayable
+
+~ WORTH BUYING ~
+🔲 No
+✅ Wait for sale
+🔲 Yes
+
+----------------
+
+Microsoft Flight Simulator stands as an ambitious and technically impressive entry in the long-running aviation series, offering a remarkably authentic experience that appeals to both enthusiasts and casual players. Its scale is immediately striking, presenting a near-entire recreation of the Earth using advanced mapping and cloud technology. The simulation prioritises realism, yet remains accessible through a range of assistance options. As a result, it succeeds in bridging the gap between hardcore simulation and broader appeal.
+Gameplay is centred around flight mechanics that are both detailed and scalable in complexity. Aircraft handling feels authentic, with each plane offering distinct characteristics that demand careful attention. Tutorials and assistance systems ensure that newcomers are not overwhelmed, while advanced simulation settings cater to experienced pilots. The variety of missions, challenges, and free-flight options keeps the experience engaging over extended periods.
+Visually, the simulator is exceptional, delivering some of the most realistic environments seen in modern gaming. Cities, landscapes, and weather systems are rendered with remarkable fidelity, creating an ever-changing and dynamic world. The lighting and atmospheric effects contribute significantly to immersion, particularly during sunrise and sunset flights. Minor inconsistencies in terrain detail can appear, but they rarely detract from the overall visual achievement.
+Overall, Microsoft Flight Simulator (2020) delivers a compelling and technically sophisticated experience that sets a high standard for the genre. Its combination of accessibility, depth, and visual excellence ensures broad appeal without sacrificing authenticity. While it may not cater to those seeking fast-paced action, it excels as a meditative and richly detailed simulation. The result is a highly rewarding title that showcases the potential of modern simulation technology.
+Microsoft Flight Simulator gets a 6/10.
+
+For more reviews check my Steam profile
+Hope you enjoyed my review, god bless you",True,2026-04-25 19:53:13,english,30058
+Microsoft Flight Simulator,Simulasyon,"Jogo é legal, mas já compra sabendo que não tem como solicitar o reembolso. Baixa 1GB de dados e quando vc abre o game pede pra baixar mais 120GB de conteúdo e nisso já esta rodando o tempo para devolução. difícil baixar em menos de 2horas e testar pra vc se é isso que vc quer mesmo (2 horas é o tempo de GamePlay que a Steam da para solicitar reembolso). Por esse motivo minha avaliação é negativa.",False,2026-03-08 20:01:51,brazilian,1122
+Microsoft Flight Simulator,Simulasyon,"👍 Recommended (195 hours)
+
+After nearly 200 hours in MSFS 2020, I can confidently say this is one of the most impressive simulators ever made—but it’s not for everyone.
+
+What’s amazing:
+
+The world simulation is insane. Flying anywhere on Earth with real satellite data still feels unreal even after hundreds of hours.
+Weather, lighting, and atmosphere are next-level immersive—sunsets and storms never get old.
+Huge variety of aircraft, from small props to airliners.
+Regular updates have improved the game a lot since launch.
+
+What’s not so great:
+
+Performance can still be rough. You need a strong PC to get smooth gameplay.
+The install/update system is… painful. It uses a separate launcher and can take forever.
+Requires a Microsoft/Xbox login even on Steam, which is annoying.
+Default airliners are decent, but not super deep unless you install mods.
+
+Real talk:
+This is more of a hobby platform than a casual game. If you enjoy aviation, navigation, or just chilling while flying over real places, it’s incredible. If you want instant action, you’ll probably get bored.
+
+Steam reviews overall are “Mostly Positive” (~78%), which fits: amazing experience, but with technical frustrations.
+
+Verdict:
+👍 Worth it — especially if you’re into flight sims or want a relaxing, immersive experience.",True,2026-03-31 00:56:01,english,15082
+Microsoft Flight Simulator,Simulasyon,"1. buy the game
+2. install the game
+3. go to sleep
+4. wake up
+5. go to sleep
+6. wake up
+7. boot up the game
+8. go to sleep
+9. play the game
+10. crashes after 10 minutes
+Very fun...",True,2026-04-01 21:34:47,english,1981
+Microsoft Flight Simulator,Simulasyon,"It's 2026 and cannot login to play. Error 400, will not send a code to my email to let me login, will not let me login with password. My account is signed in on the xbox app on my machine. I can login to my email, but MICROSHITE refuses to let me play the game i paid for...",False,2026-04-16 13:32:12,english,1287
+Microsoft Flight Simulator,Simulasyon,"Every year or two that I return to try and play this game, I am regularly reminded why it is that I don't. From not being able to sign-in, to experiencing download issues, to not even recognizing my controllers, it is guaranteed to be an agonizingly miserable fight just to get in-game, let alone having my controllers function and actually be able to get in air.
+
+Out of the 80 hours I have in this game, less than 2 of them are actually flying. The rest has just been downloading the game, struggling to sign-in, or troubleshooting one of the millions of issues I deal with this absolutely broken piece of code.
+
+Not only can I not recommend this, but I actively encourage anyone to avoid trying this game. Not only would it be more productive, but you would have a much more enjoyable experience watching paint dry than playing Microslop Fight Stimulator 2020.",False,2026-03-20 08:13:42,english,4762
+Microsoft Flight Simulator,Simulasyon,"Dieses Spiel hilft mir, wenn mich die Depressionen packen. Hier bekomme ich Luft zum Atmen und kann den beengten Raum um mich aufs unendliche erweitern. Ich fliege nur in VR, und das macht es so besonders. Das fliegen hat mich schon aus einigen seelischen Tiefen geholt.",True,2026-03-31 22:41:59,german,28909
+Microsoft Flight Simulator,Simulasyon,"use controller no matter what, unless you have flight tools like a joystick.",True,2026-03-04 04:13:41,english,424
+Microsoft Flight Simulator,Simulasyon,"The actual game is fun, BUT:
+1. The game installs in a way where the installing process contributes to your steam ""playtime"" and given its over 100 gigs, by the time you even get in a plane, you can't refund it
+2. You have to manually set up every control if you wanna use a controller (took me about an hour of watching youtube tutorials)
+3. The game has no story/campaign mode
+
+Any big aviation fan will love it but i wish the devs werent so ♥♥♥♥♥♥♥ greedy, charging 70€ for the ""standard edition"" of an outdated game with no refunds is actually insane.",False,2026-03-16 22:51:23,english,459
+Microsoft Flight Simulator,Simulasyon,"This sucks. I decided to buy this game to fly a plane in VR! sounds fun. no not at all, i buy the game, install it thinking wow its only 2 gigabites, then i load it up and have to sign into microsoft, then xbox, not that bad, only been about 20 minutes, then it asks me to install the real game (missions and other content that i will likely never use)  I spend 2 hours installing it, get to 100% and it just stops. i stay in the menu for awhile, then pause it and restart the game. now i have another 60 gbs to install? What happened to buying a game and pressing play? why do i need to install the game 3 times, sign into multiple acounts, go through confusing ui, and finally play the game? what a waste of time and money.  ill update my review when i get a chjance to play the game for once, but even then i still would not reccomend this.
+
+
+Update: i give up , waste of storage and time",False,2026-04-18 06:07:51,english,124
+Microsoft Flight Simulator,Simulasyon,"Only just purchased this game and it's made me download the whole thing within it's own launcher, atp why even bother sticking it on steam.
+
+Also just realised steam is counting the the time spent to install this thing as ""play time"", so by the time it gets installed i'll be out the 2 hour refund window. I don't even plan on refunding this thing it's just a scummy decision on microsoft's part
+
+TLDR: Game uses it's own cruddy installer, automatically not reccomended.",False,2026-04-26 20:16:24,english,908
+Microsoft Flight Simulator,Simulasyon,This is one of the most epic and groundbreaking flight simulation software ever made. Full world generation with highly detailed jets planes and even modded helicopters it offer a huge variety of experiences. It is too bad the horrible developers decided to sabotage this game. It used to be annoying to spend half of a day or more just downloading the game. Thanks to the f**#* xbox sign in screen which is totally useless it is almost impossible to download at all. The fu**#*king greedy developers probably hobnobbled the game to sell flight sim 2024 so f***# them.,False,2026-03-05 02:15:04,english,24390
+Microsoft Flight Simulator,Simulasyon,"Ever since I got my Covid-19 vaccine I have been possessed by a strange urge to play this game constantly. Every time I try to uninstall it I find myself losing control of my limbs. No matter, though. I love Microsoft Flight Simulator, and Microsoft Flight Simulator loves me. I don't need any other games in my life when I have Microsoft Flight Simulator. I am happy.",True,2026-05-07 18:49:58,english,10117
+Microsoft Flight Simulator,Simulasyon,"-Installing the 2gb game
+-Happy that its only 2gb
+-Signing in
+-Getting bombed with a 150gb update",True,2026-03-12 15:59:20,english,241
+Microsoft Flight Simulator,Simulasyon,"Since the game installs via third party launcher, by the time you finish installing, refund window is gone forever.
+
+I don't know if I will want to refund, but still a malicious practice.",False,2026-03-08 18:26:00,english,482
+Microsoft Flight Simulator,Simulasyon,"É um jogo sobre paciência.
+
+Paciência pra baixar, descomprimir o jogo e lidar com os problemas da instalação, que, por vezes, podem te fazer baixar tudo de novo. (A dica é, deixe bem mais espaço do que o jogo pede no inicio do download, porque depois de descomprimir ele aumenta bastante, e o instalador não te avisa nada, só fica descomprimindo infinitamente)
+
+Paciência para logar sua conta da Microsoft no jogo, pois provavelmente vai aparecer só uma tela preta depois que você colocar o email e a senha e ficar travado. (A dica é, não faça o login com a senha, use um método alternativo, como receber o código por celular)
+
+Paciência pra lidar com os crashs que vão acontecer com poucos minutos de jogo. (A dica é, otimize o jogo pelo aplicativo da Nvidia e configure o Windows pra alocar memória dinamicamente)
+
+Paciência pra aprender a voar com os treinamentos. (Que são muito legais, mas a avaliação das notas é bem aleatória, você faz um voo todo estranho e recebe A e outro certinho e recebe B)
+
+Paciência pra voar seguindo corretamente os procedimentos e diretrizes de voo. (Afinal, isso aqui é um simulador, eu sei que o jogo é seu mas o mais legal é simular certinho) 
+
+E depois de tudo isso, vem o motivo que vai te exigir mais paciência, mesmo com todos os cuidados e ajustes, seu jogo vai fechar do nada as vezes, não tem remédio e é aleatório, cedo ou tarde acontece, o que resta é aceitar e conviver com isso.
+
+Se você teve paciência pra ler até aqui, então ai vai minha recomendação:
+Se eu pudesse, daria uma avaliação neutra, porque minha recomendação pra você sobre esse jogo depende do seu perfil de jogador:
+
+Se você é um entusiasta de simuladores e da aviação, eu recomendo, pode comprar, porque mesmo com todos os problemas, na hora que funciona vale muito a pena. (esse é meu caso, por isso vou deixar a análise como positiva)
+
+Se você está apenas curioso sobre como é ou pretendia comprar pra jogar de forma mais casual, eu não recomendo, acho que é melhor você jogar esse jogo pelo YouTube mesmo, vai dar menos dor de cabeça.
+
+Seja qual for o seu perfil, se decidir encarar, use as dicas acima pra facilitar as coisas e economizar tempo, mas não precisa ter pressa pra testar o jogo, porque todo o processo é feito com o jogo aberto, sendo assim, você provavelmente não vai conseguir reembolsar, então pense com paciência antes de comprar.",True,2026-03-20 02:24:43,brazilian,1794
+Microsoft Flight Simulator,Simulasyon,"O simulador é excelente, só precisa de algumas atualizações. Por exemplo, o aeroporto internacional de Natal (SBSG) está sem iluminação, impossibilitando operação noturna.",True,2026-03-08 18:27:48,brazilian,385939
+Microsoft Flight Simulator,Simulasyon,"Мало того, что игра качается в лаунчере, и автоматически при скачивании 150 гигов накрутит часа 4 и рефанд не сделаешь, так еще ♥♥♥♥ в игре есть ♥♥♥♥♥♥ баг при котором, тебя держат на одном ♥♥♥♥ самолете  и аэропорте В СВОБОДНОМ ♥♥♥♥♥ РЕЖИМЕ. И ♥♥♥♥♥ нигде не написано про это, переустановить игру?- да пошли ♥♥♥♥♥! У меня в стране и так его нет, а со скоростью 11Мб.сек мне ♥♥♥♥♥ это не надо. Игра очень качественная в плане сима, хорошая графика, по бумаге огромный выбор аэропортов и самолетов, тупо планета 1к1. Но эти ебучие баги это просто КОШМАР! Есть более достойные аналоги",True,2026-03-17 19:01:21,russian,3086
+Microsoft Flight Simulator,Simulasyon,"скачивание игры какого-то черта происходит внутри самой игры, а весит она 150гигов, это минимум 3 часа, соответственно если игра не понравится ее не получится вернуть потому что 2 часа уже прошли во время загрузки",False,2026-04-30 06:43:36,russian,357
+Microsoft Flight Simulator,Simulasyon,I can't get this game to run. My profile shows 15 hours in game and I've only made it to the menu to start the tutorial one time. It crashes almost every time before getting to any menu to change settings. My PC isn't garbage either. I can run pretty demanding games and I've never had a game this unplayable before. I've spent a little time trying to look up solutions but I get the feeling I'm going to need to really commit myself to researching the problem instead of just moving on to something else. Games this popular and established shouldn't struggle like this.,False,2026-03-04 17:57:14,english,948
+Microsoft Flight Simulator,Simulasyon,"Comprado dos veces, una en la pésima tienda microsoft y aquí... y en ambas lo he abandonado por la cantidad de problemas de sus iniciadores XBOX.
+
+Evidentemente un gran juego con un pésimo desarrollador, activamente hostil para con los jugadores. Por descartado que ni este ni me paso al 24. Todo cuanto provenga de Microsoft, XBOX, es hostil al cliente. 
+
+Ni hablar de su sistema de actualizaciones, por no contar el online necesario hasta para respirar. Y si funcionara bien al menos... 
+
+Me pasó lo mismo con Forza Motorsport 7, que en Xbox launcher, daba la paradoja de no querer logarte, y si reiniciabas el ordenador, ahora si... Es lamentable. 
+
+Un servicio de verdaderas heces...",False,2026-03-03 00:14:16,spanish,3061
+Microsoft Flight Simulator,Simulasyon,Love this game!  The mods from FlightSim make it soooooo much better as well.   Just buy the standard version and you can get more planes for free instead of paying the rediculous prices from the marketplace.,True,2026-04-23 11:07:15,english,28763
+Microsoft Flight Simulator,Simulasyon,"Well I have not played this in a long time but wanted to write a short review before I uninstall it to free some space.
+I remember the disastrous launch, but after a year or so things were much improved and overall it is a revolutionary addition to the series.
+Clearly the standout ""feature"" this game gave birth to was the incredible realtime streaming of map data, which opened up the entire earth to explore. For those that don't know, Earth_DM is quite a large map as far as games go.
+I'll never forget the first time I flew over my own house.. absolutely incredible.
+..until I realised I really need to clean all the crap up out back, since it can apparently be seen from space.
+
+MSFS 2024 is obviously the way to go, now that it is starting to mature.. but I'd assume 2020 could be handy for a performance boost, plus I know certain things are still only possible in this version.",True,2026-03-07 06:23:14,english,5367
+Microsoft Flight Simulator,Simulasyon,"Честно говоря, раньше почти не интересовался авиасимуляторами. Думал — не мое. Но эта игра реально зацепила. И я ни разу не пожалел что купил её
+Это не просто игра — ты буквально ощущаешь, насколько сложна эта профессия. Когда видишь всю эту детализацию, графику и полностью открытый мир — понимаешь: вот оно, новое поколение. У тебя в компьютере — целая планета.
+Отдельный кайф — летать над своим домом. Реально видеть свои улицы с высоты — очень необычное и даже немного странно..
+Да, игра требовательная, но если у вас довольно крепкий самовар, смело покупайте!
+По реалистичности и проработке — это вообще другой уровень. Многие игры даже близко не стояли к Microsoft Flight Simulator 2020 - Итог: Покупайте, не пожелаете. Игра сложная и не для всех, но уверяю, эмоции будут очень яркими и запоминающими!",True,2026-04-19 15:49:07,russian,1084
+Microsoft Flight Simulator,Simulasyon,"O Microsoft Flight Simulator  e um simulador de voo extremamente realista e impressionante visualmente. O que mais gostei foi o nivel de detalhes dos avioes e dos cenarios, que reproduzem cidades e paisagens do mundo inteiro com muita fidelidade. A sensacao de pilotar e envolvente, principalmente para quem gosta de aviacao ou procura uma experiencia mais tranquila e imersiva.
+
+Por outro lado o jogo exige um computador potente e bastante espaco de armazenamento.
+No geral recomendo o jogo para quem gosta de simuladores e busca uma experiencia realista de voo.",True,2026-03-16 10:53:57,brazilian,1367
+Microsoft Flight Simulator,Simulasyon,"할 말이 있습니다
+일단 유튜브 보고 오셨다면 컴퓨터부터 확인하세요 게임을 옵션 high로 원할하게 렉 없이 플레이 하려면 cpu 인텔 12400에 rtx5060있으면 잘 돌아갑니다 이거보다 낮은사양은 유튜브에서 보셨던 그 엄청난 그래픽이 안나옵니다 그리고 키보드에서 할 말이 많은데 일단 키보드 마우스로 하려했다면 하지마세요 제발 키보드가 텐키리스배열이다? 제발 하지마세요 키보드 최적화도 안되어있고 넘페드(키보드 옆 숫자패드)있어야 겨우겨우 맛볼수있습니다 원활하게 하려면 엑박360컨트롤러는 걍 최소사양입니다 한국어 지원하지 않는다 적혀있는데 아닙니다 지원합니다 특가 한다고 막 사지마세요 컨트롤러부터 사세요 엑박360컨트롤러가 최소사양 조이스틱이 기본입니다 키보드로 이런퀄리티를 하고싶다면 dcs추천합니다 키보드로도 어느정도 잘되어있어요 이 글을 끝까지 읽었다면 좋아요 부탁",False,2026-03-07 04:00:52,koreana,182
+Microsoft Flight Simulator,Simulasyon,"Сама задумка очень не плохая, но реализация ужасная. Игра пересатала запускаться после трех удачных запусков. Постоянные проблемы с загрузкой (то они моментальнопроходят, то висят по 20 
+минут). Сейчас игра просто зависает на экране загрузки и ничего не происход
+ит. Железо мощное, интернет отличный. Каждый раз что бы поиграть приходится час потратить на запуск и выяснения причин что на этот раз с ней не так.",False,2026-03-06 07:15:04,russian,2313
+Microsoft Flight Simulator,Simulasyon,The game had some downloading while in the game i don't know how to name it but it was downloading 3 HOURS for me and i played the game for 20 MINUTES and i don't enjoy it and i cant refund it because i got over 3 hours on it because of the downloading,False,2026-03-08 10:26:32,polish,307
+Microsoft Flight Simulator,Simulasyon,"I no longer can use this title, as it requiers a microsoft login which does not seem to work. Spent an hour trying.  Why do I need to login to play a game i purchased and already played?  Can I get my money back?",False,2026-03-08 05:13:44,english,6030
+Microsoft Flight Simulator,Simulasyon,"got the game, saw reviews that it had an external installer and would take a while to install. I though it wouldnt take to long. it took around 24 hours to install the game. This may be due to my crapy hardware and internet connection but yea. I would not recommend this game. The external installer broke on me multipul times and when i acttually got to play the game some of its files where corrupted which caused textures to be misssing :/",False,2026-03-05 03:44:30,english,1508
+Microsoft Flight Simulator,Simulasyon,"No sé cómo es el juego, llevo 3,2 horas tratando de instalarlo y no paso de ""checking for updates"". Soy bastante malo, pueden llegar a matarme en los tutoriales, pero no pasar de la pantalla de instalación... ¡esto es nuevo!",False,2026-03-04 16:50:26,spanish,821
+Microsoft Flight Simulator,Simulasyon,Lot's of fun. Seems pretty realistic for someone who's never flown a plane before. Love being able to see the world as it is.,True,2026-04-10 23:49:52,english,585
+Microsoft Flight Simulator,Simulasyon,"So sorry I bought it. I don't might that it's complicated, but when I started the game after not playing for a couple of weeks, Microsoft wants me to sign a big document and wave my rights??? I paid at least $140 for this crap and it's not mine. We are done with MSFS and Steam. You young guys are nuts. Going back to X plane",False,2026-05-13 01:21:54,english,6603
+Microsoft Flight Simulator,Simulasyon,"Definitivamente o maior simulador de voo que existe, aviônicos avançados, mundo em escala real com fotogrametria. Indispensável para quem quer aprender parâmetros de aviação, se tornar piloto, ou simplesmente sair voando ao redor do mundo.
+
+===Gráficos===
+🔲DOOM
+🔲A primeira foto de um buraco negro é mais nítida que isso
+🔲140p full hd
+🔲Aceitável
+🔲Bom
+🔲Ótimo para a proposta do jogo
+🔲The Witcher 3
+🔲The Witcher 3 com ENB series
+✅Simulação da vida real
+
+===Requisitos===
+🔲Pc da xuxa
+🔲PC da Positivo que não roda nem Windows XP em 32 bits
+🔲Calculadora
+🔲Dá pra rodar com placa integrada tranquilo
+🔲Um i5 com uma GTX 750TI
+🔲No minímo uma RTX 3060
+🔲Pc com CPU e GPU muito boas
+✅3x RTX5090 ligadas na hidroelétrica de Itaipu caso queira a experiência completa
+
+===História===
+✅Tá de sacanagem que tu quer historinha em simulador pae?
+🔲Finge que tem, mas não tem
+🔲Tem uma historinha
+🔲Uma história digna de prestar atenção
+🔲É sobre a vida real
+🔲Senhor dos anéis
+🔲Platão escreveu junto com George R. R. Martins.
+🔲Steven Spielberg, Martin Scorsese, Clint Eastwood, Alfred Hitchcock e Tarantino escreveram em uma mesa de bar
+
+===Jogabilidade===
+🔲Precisa de dois dedos pra jogar
+🔲Aceitável
+🔲Jogabilidade bacana
+✅Jogabilidade excelente e complexa, digna de um simulador
+
+===Complexidade===
+🔲Jogo da velha é mais complexo
+🔲Fácil de entender
+🔲Fácil de aprender, difícil de dominar
+✅É daqueles jogos que as pessoas ficam estudando (utilizado para treinar pilotos na vida real)
+🔲Precisa de, no mínimo, 2 doutorados, e 3 carteiras da OAB
+
+===Dificuldade===
+🔲Seu cachorro consegue
+🔲Fácil
+🔲Médio
+🔲Dark Souls
+✅Você precisa ser um robô treinado
+🔲Doutorado, Concurso público e um certificado da NASA
+
+===Tempo de jogo===
+🔲Far cry 4
+🔲6h
+🔲12h
+🔲24h
+🔲48h
+🔲100h+
+🔲Você começa, o neto do seu neto do seu neto termina
+✅ Infinito
+
+===Áudio, músicas, ost===
+🔲Beep
+🔲É melhor jogar no mudo
+✅Aceitável
+🔲Muito bom
+🔲Produzido por John Williams
+🔲Quincy Jones chamou Mozart e Beethoven pra compor, e foi mixado por Toni Maserati, Andrew Scheps e Rick Rubin
+
+===Bugs===
+🔲Nunca vi nenhum
+✅Pequenos bugs (isso vai depender da sua otimização de GPU)
+🔲Pode ficar irritante
+🔲Pode estragar a gameplay
+🔲Skyrim
+🔲Cyberpunk 2077
+
+===Publico alvo===
+🔲Crianças
+✅Adolescentes
+✅Adultos
+✅Profissionais da aviação
+
+===Compensa Comprar? ===
+🔲Preço justo
+🔲Compre se tiver dinheiro sobrando
+✅Espere uma promoção
+🔲Caro demais não recomendo
+🔲Mais fácil você queimar seu dinheiro
+
+===Sistema de DLC ===
+✅Sabor estelionato = aprendeu com a EA Games
+✅Mais caro que o próprio game
+🔲The Sims 4 (EA Games de novo kkkkk)
+🔲Espere por uma promoção
+🔲Vale a pena cada DLC",True,2026-04-25 14:19:35,brazilian,6067
+Microsoft Flight Simulator,Simulasyon,"Muy buen juego, si te gusta reacrear vuelos comerciales o simplemente inventar rutas, sientete con la libertad de hacer lo que quieras",True,2026-04-19 02:09:35,spanish,44999
+Microsoft Flight Simulator,Simulasyon,"Je fais du pilotage en ligne depuis maintenant 7 ans avec 300 heures cumulées sur le 2020 et le 2024 je peux certifier que le 2020 est pour ma part plus intéressant.
+Ce logiciel est parfait pour la simulation avancée avec beaucoup de matériel mais également pour du loisir.
+Attention, grosse config PC attendue pour une immersion totale.",True,2026-04-06 11:49:02,french,5817
+Microsoft Flight Simulator,Simulasyon,"デフォルト機体、シーナリーにはあまり期待はしないほうがいいです。320(V2)、787といったまともな機体はありますが、基本的にはサードパーティ製のアドオンのほうが良いでしょう。(有料の場合は8000円以上)
+また、フライトスティックなどの最低限飛行機を飛ばせるものは必要です
+padでも出来はすると思いますが、フライトスティックをおすすめします(1万円以上)
+クラッシュするとか言ってる人がいますが、最低スペックを満たしていないだけです
+最低限3060TIとi5-11世代以上は必要です
+快適に遊ぶには追加で1万円以上は用意してください
+以下を踏まえ、買ってもいいなと思った方は買ってください、”将来の夢が決まります”",True,2026-03-06 13:37:56,japanese,50515
+Microsoft Flight Simulator,Simulasyon,"Um simulador completo, uma excelente ferramenta para estudo.",True,2026-04-04 11:38:16,brazilian,63427
+Microsoft Flight Simulator,Simulasyon,Oyun güzel. Açıkçası klavyeden oynanabilecek bir oyun değil. Ya bir tane xbox/playstation kolu veya bir tane uçak joyistick'lerden alınırsa uçağı kontrol etmek daha kolay olur. Grafik anlamında gayet yeterli ki bazıları xplane 12 ile karşılaştırıyor. Rtx 3080 10GB+Ryzen 5 7500f+32gb ram kullandığım halde işlemciden kaynaklı bir darboğaz yaşıyorum ve 45 fps geçemiyorum. Bu sorun muhtemelen benden kaynaklı çünkü rtx4060 ve benle aynı işlemciye sahip başkası yayınla beraber oyunu 60 fps de rahat oynanabiliyor. Oyunda uçaklar çok fazla ama oyunun bize default olarak verdiği uçaklarda idare eder. Eğer sadece yolcu uçağı kullanan biri olmak istiyorsanız yolcu uçakları yetersiz kalabiliyor. Marketplace de uçaklar satılıyor ama çoğu oyundaki a320 den baz alınarak yapılıyor.,True,2026-03-07 22:08:41,turkish,6890
+Microsoft Flight Simulator,Simulasyon,"способ входа в xbox по номеру телефона невозможен из-за постоянной ошибки и плюс куча всего негативного типа загрузки игры и т.д. Жаль так попался и потратил в пустую деньги. Ошибки у многих бывают, но такой геморрой не приобретайте, это ужас со входом, загрузкой и запуском игры. Надеюсь сберегу Вам нервы товарищи.",False,2026-03-29 07:44:18,russian,63
+Microsoft Flight Simulator,Simulasyon,"Microsoft Flight Simulator 2020 is a very good game, but the account and DRM setup is still anti consumer. 
+
+A paid game should not require Arxan Anti Tamper DRM and a separate Xbox or Microsoft account just to access the full product. The Steam version also requires a third party account. That adds more dependency, less ownership, and more ways for legitimate customers to run into login or access issues.
+
+The sim itself is impressive. The account and DRM layer is not. Without those extra restrictions, I would view this much more positively.",False,2026-03-24 19:42:34,german,130
+Microsoft Flight Simulator,Simulasyon,"Jeu plutôt réaliste, c’est indéniable, et c’est clairement l’un de ses plus gros points forts. Le niveau de détail est impressionnant, que ce soit au niveau des paysages, des conditions météorologiques ou encore du comportement des avions. On ressent vraiment le travail qui a été fait pour proposer une simulation immersive.
+
+Cependant, ce réalisme a aussi un revers. Les tutoriels sont très brefs et pas forcément intuitifs. Pour un joueur qui n’est pas déjà passionné d’aviation ou habitué aux simulateurs, la prise en main peut vite devenir compliquée. Beaucoup de mécaniques ne sont pas expliquées en profondeur, ce qui peut rapidement décourager. On se retrouve souvent à devoir chercher des informations ailleurs pour comprendre correctement le fonctionnement du jeu.
+
+Le jeu manque également d’objectifs clairs. En dehors du plaisir de voler et de visiter différents lieux à travers le monde, il y a peu de choses qui viennent réellement motiver sur le long terme. Il n’y a pas de progression marquante, ni de véritable fil conducteur qui pousse à continuer. Pour certains joueurs, cela peut donner une impression de vide ou de répétitivité après quelques heures.
+
+En résumé, Microsoft Flight Simulator 2020 est une excellente simulation, très aboutie techniquement, mais qui s’adresse surtout à un public déjà intéressé par l’aviation. Les joueurs plus occasionnels risquent de se sentir un peu perdus et de décrocher faute d’accompagnement et d’objectifs concrets.",False,2026-03-19 17:10:25,french,2058
+Microsoft Flight Simulator,Simulasyon,"购买前提醒，此游戏购买后需要下载180G的内容，如果你的网速不是能在2小时内下完的你将不能退款
+游戏性：通过mod可以实现较为拟真的模拟飞行体验，但大部分的MOD都需要额外花钱购买普遍在100元—200元，部分高级厂商制作的高拟真机型价格较高如 Fenix A320系列（50英镑）inibuilds A350等，当然也有免费的高拟真但缺失部分小功能的机型
+fly by wire A320 A380
+游戏质量：非常吃CPU！！！12400F+4060在高空巡航开启中画质和帧生成只有80帧，进近加载官方提供的部分高清地景时只有40帧左右，普通地景60帧，游戏内的ATC（航空管制）运行逻辑是有问题的，需要将系统语言的非U语言调为英文才可大大避免大部分bug，风景非常好看，可以在全世界任何一个地方开始飞行",True,2026-04-23 14:29:33,schinese,17612
+Microsoft Flight Simulator,Simulasyon,Why do I have to perform 2 separate sign in forms and perform dark magic incantations to get this _single player_ game to even get on the main menu?!,False,2026-04-30 20:37:12,english,680
+Microsoft Flight Simulator,Simulasyon,Oyunu indirmeyi oyunun içinden yapıyor 170 GB inene kadar 2 saatiniz her türlü dolacağı için iade etme şansımızda olmuyor o yüzden iade ettim,False,2026-04-23 17:39:50,turkish,25
+Microsoft Flight Simulator,Simulasyon,"Took me like 5 times for login to actually work and then it refused to connect to Microslop's servers, booting me out. Tried again and still refused to connect.",False,2026-03-14 18:59:09,english,1027
+Microsoft Flight Simulator,Simulasyon,♥♥♥♥ this game. 13 hours not even played the game once. Had to reinstall and delete all files just so it does not ♥♥♥♥ up again. Stuck on download for hours and stuck on decompressing the same file. This game is 6 YEARS old. What the ♥♥♥♥.,False,2026-03-05 08:06:32,english,1002
+Microsoft Flight Simulator,Simulasyon,"Die Installation war schon schlecht. 
+Warum muss ich das über einen extra launcher herunterladen der dann oft hängen bleibt? 
+Das Spiel an sich ist nicht schlecht, aber alles drum herum ist eine Katastrophe. Ich kann dieses Spiel nicht deinstallieren. ich habe es über steam versucht aber es sind immer noch irgendwo 120gb versteckt, dann hab ich alle Ordner gelöscht die ich zu diesem Spiel finden konnte. immer noch keine 120gb mehr frei. 
+
+Microsoft ist so ein schmutz",False,2026-05-09 08:35:04,german,719
+Microsoft Flight Simulator,Simulasyon,"I'm almost 3 hours into the background download with Gb bandwith, nice gateway to get rid of the refund policy. GG Microslop",False,2026-03-05 00:50:39,english,708
+Microsoft Flight Simulator,Simulasyon,"La verdad, siendo honesto, juegazo.
+Este juego logra ser bastante jugable gracias a su realismo y telemetría en el mundo y aunque haya salido el MSFS2024 no lo he comprado debido que no creo que me me vaya muy bien en mi laptop y que no es tan estable, pero el MSFS2020 todavía sigue activo con una gran comunidad.
+Puede llegar a ser aun mas disfrutable si te puedes lograr comprar Yokes o Sidesticks como los que usan en los Airbus/Boeing para tener una sensación más realista al pilotar aviones, también hay más accesorios que venden los cuales pueden ser como el MCDU, Thrusters, y más.
+También puedes lograr instalar mods o conseguir aviones, aeropuertos y ""liveries"" (los diseños del aviones como los de aerolíneas, para dar un ejemplo, Air France).
+También tiene comunidades como VATSIM, IVAO y más que hacen simulaciones aún mas realistas ya que simulan el contacto de torre de control con el piloto logrando una experiencia más real y fiel a la realidad.
+
+Y bueno eso es todo, por favor Microsoft o Xbox hagan más juegos como estos.",True,2026-05-10 02:59:21,latam,14927
+Microsoft Flight Simulator,Simulasyon,"First of all this game has a good grapchics , the second is the physics",True,2026-04-21 15:22:54,russian,2132
+Microsoft Flight Simulator,Simulasyon,"Certamente, purtroppo è il mio primo approccio MSFS2020, onestamente ho iniziato MSFS2024 ma sono rimasto delusa perchè, si bellissimo, la sezione carriera, ma è instabilissimo, siceramente mi sono pentito di averlo acquistato, potevo seguire la politica meglio il vecchio quanto meno è sicura che i miglioramenti già sono stati fatti. purtroppo ho acquistato il 2020, perchè mi ero entusiasmato con il 2024, però amaro in bocca. Speriamo che i miglioramenti arriveranno al più presto. Premetto ho un PC di ottime prestazioni superiore alla configurazione consigliata.",True,2026-03-13 18:40:37,italian,2688
+Microsoft Flight Simulator,Simulasyon,"Гра тупо вилітає. навіть запустить не вдалося. Перепробував все, крім перевстановлення windows. не рекомендую, не витрачайте гроші ічас на це Г...",False,2026-03-06 14:44:47,ukrainian,24
+Microsoft Flight Simulator,Simulasyon,下载了也就四五个小时，进游戏后开加速器也挺流畅的，不过地景的建筑物都是一样的模型，就一些特别的建筑和地区会用心去做，整体还不错，气动跟xplane11 12系列还是有区别的。,True,2026-03-05 09:31:54,schinese,706
+Microsoft Flight Simulator,Simulasyon,"wasted 20$ and a whole day trying to download just for it to start over from 0% , Steam Client's manager is PERFECT but I hate how they let microsoft force us to download 130GB from microass's ♥♥♥♥♥♥ servers and poorly optimized download manager . I installed RDR2 game which is 110GB and it took only 1hour , but this crappy microShit scam.. nahhhhhh , waste of effort ( Update : I've discovered new ""LetDownn "" with this product , if u had to close the launcher or shutdown your pc and lets say you're on 85% of download progress , you will have to start all over again)
+  
+        THKSSSS MicroBluff",False,2026-04-23 12:44:21,english,1596
+Microsoft Flight Simulator,Simulasyon,"Horas jogadas: muitas
+Resultado: virei turista virtual do planeta Terra.
+
+Microsoft Flight Simulator 2020 basicamente me deu **acesso ao mundo inteiro**. Você escolhe um aeroporto, liga o avião e pode literalmente voar para qualquer lugar do planeta. Já fiz voos só para passar por cidades famosas, montanhas gigantes e até lugares aleatórios que eu achei no mapa.
+
+Às vezes eu começo um voo sério… plano de voo, altitude, tudo certinho.
+10 minutos depois estou voando a 200 pés sobre uma cidade aleatória pensando:
+“Será que minha casa aparece aqui?”
+
+Os gráficos são absurdos. As nuvens, o pôr do sol e o clima fazem parecer que você está vendo um documentário ou algo filmado da vida real. Em alguns momentos eu simplesmente desligo o piloto automático mental e fico só olhando a paisagem.
+
+Os aviões são muito detalhados. Tem cockpit cheio de botão, sistema de verdade e várias coisas que eu definitivamente não sei usar. Resultado: já desliguei motor sem querer mais vezes do que gostaria de admitir.
+
+Pontos positivos:
+
+* Você pode voar para literalmente qualquer lugar do mundo
+* Gráficos lindos
+* Muitos aviões
+* Muito relaxante
+
+Pontos negativos:
+
+* Meu PC virou uma turbina de avião
+* Eu ainda não sei pousar direito
+
+Resumo:
+Comprei um simulador de voo.
+Ganhei um **Google Earth que voa**.
+
+Recomendo.",True,2026-03-11 09:08:32,brazilian,2788
+Microsoft Flight Simulator,Simulasyon,"Bruh I didn't believe it when i saw bad reviews on the performance. I have a very strong PC and ethernet and don't usually fail running any game at max settings no matter how demanding it may be. However, after downloading this stupid game and having to download the stupid 135gb of resources in game, every time i want to try starting a free flight the game crashes. I know there may be possible fixes i can search up online but i don't care anyways. No game should put you thru that much trouble just to freaking be able to play the game, especially when having one of the best PC specs available. Refunded. Also, thank god for my fast ethernet, other users may spend hours downloading that ♥♥♥♥ in game, making them unable to refund the game due to ""playing"" the game for over 2 hours. What a ♥♥♥♥♥♥ game! And don't get me started on how ♥♥♥♥♥♥ MSFS 2024 is!",False,2026-04-17 12:56:45,english,84
+Microsoft Flight Simulator,Simulasyon,Do not buy this worthless piece of junk unless you want to be sitting there for two hours just for it not to even load absolutely ridiculous. Getting my money back trash don’t buy it.,False,2026-03-05 01:41:21,english,766
+Microsoft Flight Simulator,Simulasyon,I love the graphics the planes and the textures! And the game is really fun highly recommend it!,True,2026-04-17 21:30:58,english,186
+Microsoft Flight Simulator,Simulasyon,"майкрософт контора *********. зашибають 1074 грн за гру 6-річної давності яку я не можу запустити по невідомим мені причинам (хоча ні, відомі... майкрософт контора  *********). в службі підтримки скинули інструкцію як виправити можливі проблеми але простіше взламати пентагон. якщо людина купує гру то вона хоче натиснути кнопку ""завантажити"" та ""грати"" і ВСЕ! У друга така ж сама херня. Гра наче прикольна і хотів би пограти але їбатись з цим бажання нема",False,2026-04-29 10:38:53,ukrainian,22
+Microsoft Flight Simulator,Simulasyon,YANİ ŞUNU DİYİM SAKIN PES ETMEYİN ZAMANLA HERŞEYİ ÇÖZÜYOSUNUZ MODLAR YÜKLEYİN DAHA GERÇEKÇİ OLUYOR YAPIMCILARI TEBRİK EDİYORUM,True,2026-04-15 01:48:28,turkish,11319
+Microsoft Flight Simulator,Simulasyon,"A perfect example of Microslop - It took an otherwise decent product and made it suck. Flying an aircraft feels akin to figthing it - the trim controls (the ability to maintain a level fligth) are buggy, inconsistent and otherwise fail to work. All the expensive peripherals in the world, wont fix something that is fundamentally broken.
+
+Edit: Tried playing for an additional 24 hours - nope - still a piece of microshit. 
+Performance is a joke - you can have a supercomputer and the gameplay will be stuck at 35-40 FPS. 
+
+Edit: Played for an additional 22 hours - This was such a waste of a purchase - The planes fight you all the time and nothing seems to work. Never. Again.
+
+Dont even bother with a discount purchase - avoid at all costs",False,2026-04-07 20:18:57,english,4543
+Microsoft Flight Simulator,Simulasyon,"Bu oyunu stres atmak için aldım ama daha fazla stres yaptı, 60 saatim olmuş hala tam anlamıyla her şeyine hakim değilim, oyunu tam teşekkül oynamak istiyorsanız oturup kitap defter çalışmanız gerekiyor ancak öğrendikten sonra kesinlikle daha da keyifli oluyor. Fiyat kısmına gelirsek, oyun pahalı bir oyun ancak bu fiyat buz dağının görünen kısmı, gerçekten tadını çıkararak oynamak istiyorsanız bu oyunun fiyatının 3 misli kadarı daha paranız olmalı en az. Sebepleriyse şu şekilde oyunu klavyeyle oynayabilecek adam gerçekten ermiştir, o sebeple bir joystick veya klavyeden daha iyi bir seçenek olan ps veyahut xbox kolu gerekecektir. Bir süre sonra oyunun sunduğu uçaklardan fazlasını isteyeceksiniz, kaliteli ve ücretsiz olan 1 bilemedin 2 model vardır, bunların dışı kaliteli modeller oyunun iki misli neredeyse. Kısaca bu oyunu alacaksanız hem kafası çalışan bir kişi artı olarak da burjuva sınıfına mensup olmanız gerek.",True,2026-03-12 18:28:06,turkish,10466
+Microsoft Flight Simulator,Simulasyon,"Hey Microsoft, downloading 22 out of 122 GB in-game for 47 hours does not constitute ‘playtime’ for me.",False,2026-03-10 10:02:11,german,2840
+Microsoft Flight Simulator,Simulasyon,Microsoft did magic with this game. The whole planet waits here in 1:1.... Masterpiece. 10/10,True,2026-05-10 19:21:48,english,9420
+Microsoft Flight Simulator,Simulasyon,"step 1 = i buy plen game :0
+step 2 = plen game 1.6 gb :)))
+step 3 = cant use my normal xbox acc cause of some black box of doom so i make new one :/
+step 4 = SEE THAT IT A 80 BILLION GB GAME :(
+step 5 = wait 60 years
+step 6 = still waiting right now 
+
+best game ever",False,2026-03-24 00:47:57,english,755
+Microsoft Flight Simulator,Simulasyon,"Performs well for a ""simulator"" but its more pretty looking than useful, annoying to use, comes with all the Microsoft bloat and slop. Consider Xplane 11/12 for an actual simulator, or DCS if you like military.",False,2026-04-15 18:22:11,english,15955
+Microsoft Flight Simulator,Simulasyon,"Decepção.
+Joguei através do cloud e queria comprar para jogar na steam e para a minha surpresa não funciona,
+Trava logo nos créditos iniciais e tenho que ficar entrando e saindo do jogo até funcionar e ai para minha surpresa outro download dentro do jogo de mais de 100gb impossibilitando o reembolso da steam. E ai para minha surpresa quando finaliza o download o jogo volta a travar novamente. Agora tenho essa porcaria e não consigo pedir reembolso",False,2026-03-13 18:53:14,english,609
+Microsoft Flight Simulator,Simulasyon,"playing in VR with a flight stick and throttle just feels a little too real, excellent fun.",True,2026-04-23 13:56:14,english,1992
+Microsoft Flight Simulator,Simulasyon,i believe that this game is great graphics are great but i dont know if its cause im still new to the game but theres barely any planes and the ones you can buy are kinda expensive in my opinion and i feel you need the fly sim gear in order to really play the game but other than that its a great game and i would recommend,True,2026-04-23 06:24:19,english,806
+Microsoft Flight Simulator,Simulasyon,"One of the best plane sim I ve ever played.
+Highly recommend to buy it during sold event to buy the deluxe version for more aircraifts but you still have aircraft u can download for free from flight sim sites or directly from the Xbox market",True,2026-05-14 00:12:28,french,813
+Microsoft Flight Simulator,Simulasyon,"An excellent flight simulator—likely the best available. For the best experience, I strongly recommend using a high-quality, reliable joystick.",True,2026-04-25 15:30:03,polish,471
+Microsoft Flight Simulator,Simulasyon,"Game crashes on start, also gives me lot of problems sign in Microsoft Account. 
+Game didn't work without any log errors",False,2026-04-17 19:23:09,english,67
+Microsoft Flight Simulator,Simulasyon,"Played it, a while back. Now I can't even start it, as it just starts a ghost process on my task bar that can't be switched to and can only be killed through task manager..
+I would advise anyone to stay away from games that depend on Xbox game services.",False,2026-04-17 19:20:39,english,1570
+Microsoft Flight Simulator,Simulasyon,Uçaklara ve gökyüzüne aşık biri olarak ben bu oyunu herkese tavsiye ederim küçük bir joystick almanızı tavsiye ederim ben sadece airbus sidestick ile oynuyorum sorun olmadı bu zamana kadar.,True,2026-04-07 22:10:50,turkish,5387
+Microsoft Flight Simulator,Simulasyon,fajnie odwzorowane lotniska spk gameplay na poczatku ciezko ale potem z górki,True,2026-04-05 17:54:26,polish,3131
+Microsoft Flight Simulator,Simulasyon,Impresionante como se ve el mundo y los manejos de las aeronaves súper realistas.,True,2026-04-04 09:58:13,spanish,745
+Microsoft Flight Simulator,Simulasyon,Oyunu boşverin giremiyoruz oyuna. xbox oturumu diye bir saçmalık koymuşsunuz. user ID doğru şifre doğru ama giriş yok..,False,2026-04-03 16:29:07,turkish,1438
+Microsoft Flight Simulator,Simulasyon,"Not really a good game, dissapointed, a lot of bugs all over, and now it jumps in and out of online mode.",False,2026-04-01 18:52:49,norwegian,761738
+Microsoft Flight Simulator,Simulasyon,"eu jogava o fsx deluxe edition , uma versão antiga em meados 2010 a 2013 eu joguei e fiz parte da maravilhosa esquadrilha da fumaça virtual na epoca e hoje decide relembrar os velhos tempos ja que so apaixonado por aviação resolvi voltar a jogar, sempre joguei o antigo agora vou começar a jogar os novos! tenho os videos de demonstração da antiga edav no fsx quem quiser assisitr manda msg",True,2026-03-23 14:05:50,brazilian,10326
+Microsoft Flight Simulator,Simulasyon,"Microsoft built a beautiful sim but its incredibly glitchy and hard to use. Signing into MS is a mess, and it randomly deletes your saved settings which take hours. Honestly awful, anyone serious should stick with xplane. 
+
+Most of my playtime is just waiting on endless random updates.....",False,2026-03-16 20:40:09,english,10098
+Microsoft Flight Simulator,Simulasyon,For the game to download it takes lots of time almost the entire night to decompress the files. After that this game will not run unless you got a high end console or gaming pc. For me im struggling to run it on the lowest quality setting and still getting 3 frames a second.,False,2026-03-11 23:45:27,english,531
+Microsoft Flight Simulator,Simulasyon,"Mise à part quelques petites bidouilles à faire, le jeu fonctionne bien. 
+Par contre, je trouve abusé d’inclure un shop dans un jeu qui coûte 70€.
+
+Microsoft Flight Simulator 40th Anniversary Edition, à part quelques bidouilles au lancement, fonctionne bien.
+Mais franchement, mettre un shop payant dans un jeu à 70€, c’est abusé.
+
+Points forts
+Simulation réaliste et impressionnante : Terre photoréaliste, météo en live, avions fidèles.
+Contenu massif dans l’Anniversary Edition : nouveaux avions, aéroports, missions Bush Trips.
+Mise à jour régulière avec de nouveaux contenus gratuits.
+
+Points faibles
+Shop Marketplace intrusif : avions, aéroports, liveries payantes en plus du prix de base.
+Installation/config parfois capricieuse (bidouilles nécessaires).
+Demande une bonne connexion internet pour les données en temps réel.
+
+Note : 8/10. Simulation exceptionnelle, mais le shop payant gâche un peu l’expérience ""premium"".
+
+Je le recommande aux passionnés d’aviation, de simulation réaliste, et à ceux qui acceptent le modèle “base + DLC”.
+Si tu détestes les shops dans les jeux chers, réfléchis à deux fois.
+
+Voilà voilà !",True,2026-03-09 01:59:50,french,5
+Microsoft Flight Simulator,Simulasyon,My first 24hrs for this game were totally spent on solving endless technical problems. They were so f***ing annoying and I could not even find clear solutions to them :(,False,2026-03-07 04:59:43,english,110
+Microsoft Flight Simulator,Simulasyon,"Это лютый звездец, а не игра. Потратил ровно 24 часа на установку и еще пару дней на попытку запуска этого чуда. Поиграть за 30+ часов ни разу не удалось. Через какие тернии только не прошел: удаление файлов и папок, команды запуска, отключение оверлея, удаление кеша, изменение совместимости. В какой-то момент игра даже пару раз запустилась до конца, но при следующем перезаходе опять зависание на New Activities. Это жесть, друзья, вы это еще и продаете???",False,2026-03-06 06:39:21,russian,1906
+Microsoft Flight Simulator,Simulasyon,"重そうなゲームだし30fpsあればいいか～、と購入したところ、当方RTX2070Superでも設定を調節すればMediumでも意外とfpsが出る。
+内容はとてもリアルで良いものの、リアルだからこそ難しいポイントもある。
+一応予習したほうがいい。特に旅客機を扱うならSID/STARとILS関連は知っておかないと詰む。",True,2026-03-05 12:35:48,japanese,1193
+Microsoft Flight Simulator,Simulasyon,"Microsoft Flight Simulator — це неймовірно якісний і деталізований авіасимулятор. Світ виглядає вражаюче реалістично, моделі літаків пропрацьовані до дрібниць, а польоти дарують справжнє відчуття масштабу та свободи. Гра чудово передає атмосферу реальної авіації — від погодних умов до роботи приладів у кабіні.
+
+Але варто врахувати: без джойстика або хоча б простого HOTAS-комплекту повноцінно відчути цей симулятор складно. На клавіатурі чи геймпаді можна грати, але саме з контролером для авіасимів з’являється той самий «вау-ефект» і точність керування.
+
+Якщо є відповідне обладнання — це один із найкращих авіасимуляторів на ринку.",True,2026-03-03 13:56:51,ukrainian,3708
+Microsoft Flight Simulator,Simulasyon,Да я рекомендую в эту игру поиграть дургим. Если есть возможность возмите болие новую версию 2024 года. И лучше делюкс эдишен ведь в нем даються такие самалеты как цесны. Что касаеться самой игры то она не оптимизирована вернее оптимезирована но очень старнно оптимизация похожа на тарков чтобы  у тебя работло  на минималках играй хуть на ведре но чтоб все работало на максималках покупаи комп наса.,True,2026-05-15 13:55:25,russian,13917
+Microsoft Flight Simulator,Simulasyon,"Despues de haber jugado bastantes horas, es momento de dar mi opinión. El juego en si, es una maravilla. Tiene sus ""pequeños"" bugs, pero es mucho mas estable que el 2024, que sin menospreciar su continuación, hasta que no esté completamente estabilizado y que los mods y Add-ons funcionen al 100% como en el 2020, permaneceré aquí. Para tener una experiencia de primer nivel, se recomienda tener una pc potente para poder exprimirlo, de lo contrario se sufre. En mi caso con un Ultra Wide 9, una 5080 y 64 GB de Ram, corre excelente. A veces hay caídas de FPS en ciertos aeropuertos de mayor complejidad, pero éso se resuelve bajando un poco la calidad gráfica sin sacrificar demasiado. Espero que Asobo resuelva problemas con el 2024 y lo deje bien afinado para pasar definitivamente. Mientras tanto, seguiré disfrutando del 2020.",True,2026-05-11 22:02:02,latam,15022
+Microsoft Flight Simulator,Simulasyon,"eu tenho que bater palmas pra equipe que criou o jogo, simplesmente o melhor jogo que já joguei.",True,2026-05-09 17:14:48,brazilian,1480
+Microsoft Flight Simulator,Simulasyon,"O simulador é muito bom, melhorou muito do X para este. Mas você ainda precisa ter um bom computador para rodar ele liso. As texturas ainda são pesadas, continua a velha política de jogos pesados para as máquinas para vender componentes cada vez mais caros. Mas no geral é legal sim.",True,2026-03-26 19:24:58,brazilian,179100
+Microsoft Flight Simulator,Simulasyon,"After a 130GB download you are presented with 2 options. ""Satellite World Streaming"" and ""No World Streaming."" Both options require an internet connection, however if you want to fly through NY with the actual buildings in NY and not some weird PUBG auto-gen looking buildings you need to select ""Satellite World Streaming"" and Zeus help you if you have a data limit... Dumbest thing every. Only buy this game when its on sale.. otherwise you might as well play GTA V.",False,2026-03-05 01:10:20,english,289
+Microsoft Flight Simulator,Simulasyon,"Das Spiel an sich ist gut, aber die Installation ist der reinste müll:
+
+90-Euro-Spiel kaufen.
+
+2 GB herunterladen.
+
+Einen ganzen Tag lang über den Launcher versuchen, das eigentliche Spiel zu laden.
+
+Launcher stürzt ab.
+
+Das Spiel endlich starten und genießen.
+
+Das Spiel deinstallieren und sich wundern, warum kein Speicherplatz freigeworden ist.
+
+YouTube-Tutorial anschauen und 400 GB an Installationsdateien manuell in irgendeinem versteckten Ordner löschen.",False,2026-05-23 21:29:01,german,2667
+Microsoft Flight Simulator,Simulasyon,"Mostly a great flight simulator, especially for a pilot like me. Somewhat playable in VR as well, though if possible for anyone, i would recommend only to play in VR. 
+Sadly the game has a lot of issues with performance, where especially in VR, things will just sometimes not load. The ""Ready to Fly"" button may sometimes not show and will require the entire flight to be restarted. The ""toolbar"" being similar, where even with the button, it will simply not show, causing things needed to not being able to be done. However on the other hand, it is a quite beautiful game, despite the fact, it tends to suffer from either bad performance near big cities or be outdated in smaller cities.",True,2026-05-08 07:57:59,english,7651
+Microsoft Flight Simulator,Simulasyon,"Крутая игра, отлично оптимизирована, даже на моем не игровом компе (5600G + RX6600) идет на максималках, не лагает. До этого играл на xplane 12 и MSFX.",True,2026-03-26 05:55:17,russian,4113
+Microsoft Flight Simulator,Simulasyon,"вы че ахyели, какие 2к рублей за 1 самолёт",False,2026-03-08 19:57:23,russian,5162
+Microsoft Flight Simulator,Simulasyon,"三公里的铁路只能带你走三公里，但三公里的跑道，可以带你去世界上任何地方！
+A three-kilometer stretch of railway can only take you three kilometers, but running three kilometers
+The path can take you anywhere！",True,2026-05-05 09:18:51,schinese,4032
+Microsoft Flight Simulator,Simulasyon,"So sorry I bought it. I don't might that it's complicated, but when I started the game after not playing for a couple of weeks, Microsoft wants me to sign a big document and wave my rights??? I paid at least $140 for this crap and it's not mine. We are done with MSFS and Steam. You young guys are nuts. Going back to X plane",False,2026-05-13 01:21:54,english,6603
+Microsoft Flight Simulator,Simulasyon,"If you can get the game to play and work it is a good game, however I don't recommend this game because it breaks all the time, bugs, updates taking hours, downloading items from content manager.  This game is still in beta testing stages and needs to be fixed!",False,2026-05-13 01:06:37,english,2151
+Microsoft Flight Simulator,Simulasyon,I have a little bit of time in the game i had uninstalled the game to replace a hard drive now i get the login screen of death ive tried every fix i can find online and nothing waste of money and i will never buy another Microsoft flight simulator.,False,2026-06-01 22:08:14,english,1453
+Microsoft Flight Simulator,Simulasyon,"This game taught me how to fly. 
+Currently working on a PPL and wouldn't have moved along so quickly if I didn't have MSFS to practice manoeuvres in. Great flight sim but HOTAS and pedals DEFINITELY recommended, mouse and keyboard controls don't do it justice.",True,2026-05-28 13:03:42,english,6813
+Microsoft Flight Simulator,Simulasyon,"The VR mode is amazing! and the physics of flying are very realistic, however the Installer is bad. like REALLY BAD!",True,2026-06-07 22:43:31,english,3262
+Microsoft Flight Simulator,Simulasyon,its an amazing discovering game of flight and discovering new plances around the gloabe,True,2026-06-07 21:32:16,english,260113
+Microsoft Flight Simulator,Simulasyon,"Buggé, c'est du Microsoft. Asobo, studio honteux. Beau jeu quand même, si on aime l'aéronautique.",True,2026-06-07 10:44:08,french,6129
+Microsoft Flight Simulator,Simulasyon,"No fajna gierka, trochę trzeba pograć żeby ogarnąć, ale daje wiele możliwości jeśli jesteś kreatywny. Zarąbista.",True,2026-06-07 08:58:18,polish,2611
+Microsoft Flight Simulator,Simulasyon,"The game is nice, but can require some mods to make the experience really nice.",True,2026-06-06 01:48:20,english,5862
+Microsoft Flight Simulator,Simulasyon,"Game fluido com minhas especificações. Não vejo necessidade acima de 60 fps pra um game contemplativo, campanha solo. Então roda liso!!!",True,2026-06-06 00:10:11,brazilian,1070
+Microsoft Flight Simulator,Simulasyon,"MFS2020 is a masterpiece, a monumental achievement in gaming, photgrammetry, and simulation....yet, it is not for everyone. 
+
+How can a masterpiece of a game not be for everyone you might ask? Well the answer for this is simple. This is not a normal ""game"" in the sense that most people are familiar with. MFS2020 lacks a narrative, has no real missions, no career mode (although it should), no characters, etc. So why play it? For what is lacks in story and progression, it makes up for with its near-infinite sandbox, graphical fidelity, simulation depth, and learning curve. 
+
+I've been playing MFS since 2006 when I was just ten years old and got my hands on MFS X. I was instantly addicted to the difficulty and the beauty of that game. And over time, little pre-teen me was able to figure out how to fly airliners in an age when youtube tutorials were in their infancy. 
+
+14 years later, MFS2020 released with the announcement that by using a combination of satellite photogrammetry and hand crafted models, Microsoft had essentially put the entire Earth into the video game. You can literally fly over your house--at least as it appeared on Bing Maps in 2020 anyway, you can see every house in your community, follow the traffic down the road you take to work, see landmarks around the world, and so on. Moreover, they implemented a system to import live weather conditions, which combined with the improved volumetric weather and cloud system produces insanely life-like simulation. It's truly an achievement that few other games can boast. 
+
+What you are left with is a game that will absolutely satisfy you if you are a fan of aviation, hardcore simulation, or just want to sit back and soar above the clouds while listening to music or an audiobook. The sandbox is yours to do what you want. You can fly a little prop plane around your community, or roleplay as an airline captain with routes and rigid checklists and so on. 
+
+But again, this is not an experience for everyone. There are many people who will boot this up, play for a few hours,  and say ""okay so this is it?"" And that's fine.  But if you want to dig into a deep, beautiful simulation game, the sky is the limit.",True,2026-06-05 23:14:41,english,7422
+Microsoft Flight Simulator,Simulasyon,"Jogo muito bom, porém muito pesado e relativamente mal otimizado. Apesar de ter sido lançado em 2020, o simulador envelheceu muito bem, e gráficamente ainda se equipara com jogos atuais.",True,2026-06-05 00:03:16,brazilian,1993
+Microsoft Flight Simulator,Simulasyon,"крутая игра, эффекты реальные, у меня комп гудел как двигатель от самолета, а также с диска пропало 200 гб. ставлю этой игре бесконечсность stall из 10",True,2026-06-04 06:13:21,russian,616
+Microsoft Flight Simulator,Simulasyon,"Gráficos:
+☑ Arte puro (Ver el amanecer por encima de las nubes a 30,000 pies es de otro mundo)
+☐ Buenos
+☐ Decentes
+☐ Si te quedas fijo mirando, pixelas
+
+Jugabilidad:
+☐ Adictiva como el café de la mañana
+☑ Disfrutable para pasar el rato (Planificar vuelos de aerolínea, activar el piloto automático y disfrutar del viaje)
+☐ Se deja jugar
+☐ Necesitas un manual de ingeniería (Puedes configurar las asistencias para que sea accesible o ponerlo en plan simulación pura donde cada botón de la cabina funciona)
+
+Rendimiento / Optimización:
+☐ Va como un tiro, finísimo
+☐ Estable
+☑ Exige más de lo que da (El verdadero jefe final para tu procesador y tu tarjeta gráfica)
+☐ Diapositivas en alta definición
+
+Lore / Historia:
+☐ Obra maestra
+☐ Entretenida
+☐ Está ahí para justificar que rompas cosas
+☑ No tiene / El lore es no estrellar un avión de 80 toneladas contra el suelo en el aterrizaje
+
+Conclusión: Si tienes un SSD con espacio de sobra, paciencia para las actualizaciones y te gusta la aviación comercial o general, es el simulador definitivo. Una maravilla visual.",True,2026-06-04 00:10:09,latam,63243
+Microsoft Flight Simulator,Simulasyon,非常好游戏使我环游世界 就是不能飞低了不然地景很糊,True,2026-06-03 12:03:10,schinese,2795
+Microsoft Flight Simulator,Simulasyon,"Microsoft è pessima, ho comprato il gioco su steam e ora non parte perché ora vuole l'account su xbox del quale non mi importa niente e al quale non voglio pagare un abbonamento.",False,2026-06-02 17:08:34,italian,5240
+Microsoft Flight Simulator,Simulasyon,"Game keeps crashing on initial startup in VR. Multiple bugs such as falling through the map when it does load into a flight,",False,2026-06-01 02:40:07,english,587
+Microsoft Flight Simulator,Simulasyon,"Way too many crashes for the amount of money I have spent on this game. Incredibly frustrating experience overall. 
+Game looks pretty when it runs though",False,2026-06-01 02:15:43,english,10294
+Microsoft Flight Simulator,Simulasyon,"Highly recommend this game. The graphics are amazing at high-end preset. Absoultely amazing game. After some time it can get a bit repetetive and boring, my recommendation is to install NeoFly. It is pretty much a career mode for MSFS. That way the game is awesome! Highly recommend it!",True,2026-05-31 14:25:41,english,2053
+Microsoft Flight Simulator,Simulasyon,"Je regrette complètement cet achat. Derrière une vitrine technologique impressionnante se cache un jeu d’une pauvreté incroyable en termes de gameplay. On décolle, on vole pendant des heures sans qu’il ne se passe quoi que ce soit d’intéressant, puis on atterrit. Les avions militaires sont présents mais sans missions adaptées, sans objectifs, sans contenu qui justifie réellement leur existence. Le monde est magnifique, mais un beau décor ne remplace pas un jeu. À ce prix, j’attendais une expérience vivante ; j’ai eu l’impression de payer pour une démonstration technique interminable.",False,2026-05-31 14:02:24,french,1111
+Microsoft Flight Simulator,Simulasyon,"Далеко не дешёвая игра, но своих денег стоит. 
+
+Как симулятор самолётов для рядовых игроков, желающих просто полетать не подойдет. Слишком трудно и много профессионального авиационного контента. Для комфортной игры как минимум нужен сайдстик/штурвал и руды, а это еще плюс к цене игры. 
+
+В игре багов не нашел, музыка приятная, графика тоже. 
+
+Разве что из-за цены на все, что только возможно, моя оценка: 7.5/10",True,2026-05-31 11:56:09,russian,2725
+Microsoft Flight Simulator,Simulasyon,"so this game a broken downloader simulator.
+
+i get it for 20 dollars on steam sale.
+i let the thing that said ""looking for updates"" for 22 HOURS. do YOU want to know what happened? NOTHING! IT WAS ON THE SAME FRAME I LEFT IT ON. unless i find a solution to this bug i cannot recomend this.
+only buy it if you want to stare at a single frame of a loading screen simulator 2020.",False,2026-05-31 00:39:33,english,1423
+Microsoft Flight Simulator,Simulasyon,"Ausgereifter Simulator, mit gekauften Flugzeugen super zum Simulieren",True,2026-05-30 19:39:09,german,15053
+Microsoft Flight Simulator,Simulasyon,"Simplismente o melhor simulador de piloto que ja vi, graficos impecaveis, simulação top, realismo extremo",True,2026-05-29 23:42:41,brazilian,2091
+Microsoft Flight Simulator,Simulasyon,"rlly good game, graphics are good, i love listening to my pc screaming when i play this game. my pc makes a mildly loud- very loud sound when i run the game but tbh i think its just my pc.",True,2026-05-29 03:08:30,english,6153
+Microsoft Flight Simulator,Simulasyon,"I spent 7 hours just trouble shooting, downloading the game and dealing with bugs ingame that wouldnt allow me to complete the flights.",False,2026-05-27 22:10:32,english,619
+Microsoft Flight Simulator,Simulasyon,j'adore tout je joue a se jeu avec un flight stick tout est incroyable les graphisme etc est surtout la selection des avion (concorde incroyable mais payant),True,2026-05-27 20:54:12,french,12725
+Microsoft Flight Simulator,Simulasyon,"Gostei dos aviões e de visitar os lugares no mundo, mas não gostei de alguns prédios e lugares turísticos deformados por falha da renderização ou algo do tipo, mas mesmo assim eu recomendo.",True,2026-05-26 22:20:15,brazilian,5286
+Microsoft Flight Simulator,Simulasyon,"O jogo é perfeito, graficos, avioes, fisica, enfim, vale muito a pena para quem gosta de conhecer o mundo e explorar varios aeroportos",True,2026-05-26 17:48:55,brazilian,3229
+Microsoft Flight Simulator,Simulasyon,"Solid flight sim game that still holds up years after its release. Totally recommend it, especially at the bargain prices it’s been selling for lately.",True,2026-05-24 20:02:20,brazilian,2698
+Microsoft Flight Simulator,Simulasyon,"After playing this game, waiting for an opportunity when both the pilots are unconsious and its my job to land the plane safely.",True,2026-05-24 11:31:10,english,4327
+Microsoft Flight Simulator,Simulasyon,"Love the game and its definitely like real flying, takes forever and everything. I do wish Microsoft themselves would add more military planes though the f18 doesn't like to turn on the runway and the in game store is pricey. Worth the money if you love planes of any kind",True,2026-05-24 02:57:43,english,2384
+Microsoft Flight Simulator,Simulasyon,"Crashes every single time without fail upon loading up past safe mode/normal mode screen. I've owned this game for 2 years as of today and have never once been able to play (let alone start the actual download). I've tried every tutorial from forums to reddit posts to get it running. This is my first ever review for any title I've ever owned and this one is deserving of a thumbs down because those 1.9 hours of play time are quite literally me loading the game in the launcher and it crashing. I bought the premium deluxe edition and was stoked to try some of my favorite aircraft. I'm sure the game is truly beautiful and worth spending time and energy in, but It is just such a shame I cant ever load in to experience it.",False,2026-05-23 23:32:04,english,607
+Microsoft Flight Simulator,Simulasyon,"Otimo simulador. A unica coisa, por enquanto, que odiei foi o fato de ter comprado uma aeronave de pessima qualidade e nao consegui devolver para poder ter o reembolso.",True,2026-05-23 18:47:43,brazilian,14052
+Microsoft Flight Simulator,Simulasyon,"O jogo é bom, mas não há como pedir reembolso. Você baixa 1GB, mas ao abrir o jogo há um launcher que baixa mais 120GB, e esse tempo conta nas 2 horas de reembolso da Steam.
+Esse download no launcher é muito lento e pode demorar de 2 a 3 horas para terminar.",False,2026-05-22 19:02:03,brazilian,6283
+Microsoft Flight Simulator,Simulasyon,"good game i guess, i crashed a a380 into my house and felt it in real life so gud game LOVE IT",True,2026-05-21 12:20:39,english,20141
+Microsoft Flight Simulator,Simulasyon,"oyun çok gerçekçi güzel bir uçuş deneyimi sağlıyor ama çok iyi bir sistemi
+niz olsa dahi fps hala düşük optimizasyon yerlerde ayrıca beleş uçak sayısıda çok düşük",True,2026-05-20 20:25:23,turkish,1481
+Microsoft Flight Simulator,Simulasyon,"This game is very good for people who want a half arcade-half realism flying game, but its kind of p2w as u only get a couple decent planes for free",True,2026-05-20 15:50:31,english,4785
+Microsoft Flight Simulator,Simulasyon,画质很好，非常好玩，非常真实，推荐搭配外设,True,2026-05-20 14:10:09,schinese,2638
+Microsoft Flight Simulator,Simulasyon,Desenvolve sua inteligência e conhecimento sobre aeronautica.,True,2026-05-19 23:12:00,brazilian,4489
+Microsoft Flight Simulator,Simulasyon,"чому за 6 років досі не пофіксили ці дитячі проблеми, о прсто не можна начати нову гру то не змінюється погода то при завантаженні на інший ПК ця срань взагалі відмовляється зупускатись ну як ♥♥♥♥♥ так",False,2026-05-19 16:00:02,ukrainian,10622
+Microsoft Flight Simulator,Simulasyon,很好玩 但資料很大很吃硬碟空間,True,2026-05-18 12:48:28,tchinese,1807
+Microsoft Flight Simulator,Simulasyon,"takes 3 hours to install even though i have a SSD thats capable of writing at 800mbps because microsoft has a ♥♥♥♥♥♥ 2gb installer for ts instead of just letting people directly install it through steam, thanks microsoft!",False,2026-05-17 22:08:21,english,3287
+Microsoft Flight Simulator,Simulasyon,"This game is honestly ♥♥♥♥, either i spend three hours downloading updates or it gives me an xbox sign in button i can't click. I regret spending my money on this",False,2026-05-17 04:09:04,english,505
+Microsoft Flight Simulator,Simulasyon,Had the game for couple of years just to log on after a while and see all my activities achievements have been reset to 0. Microsoft refuses to gets it back and says my cloud data was corrupted or did not save. 4 years of activities flying and achievements gone despite the game still showing in my profile settings that I completed the flights,False,2026-05-17 01:43:25,english,13053
+Microsoft Flight Simulator,Simulasyon,"o simulador é muito realista com fisicas e comandos bem definidos, ótimo para os amantes de aviação ou já e piloto e precisa treinar.",True,2026-05-16 23:57:46,brazilian,13929
+Microsoft Flight Simulator,Simulasyon,I love Microsoft update simulator 2020 it really captures the perfect update experience don't get bogged down with playing games when you could just be updating them all the time. And don't think this is another streamlined easy player out of the box update experience it's going to require multiple crashes and restarts along the way very much a hands-on experience. I love the consistency as well for example according to steam I have played this game for 67.5 hours and I don't think I've spent more than one or two hours in game at most which is a godsend because I can't stand having to actually play the game I much prefer the update experience. If you too want a impossibly long painful experience dragged out in perpetuity pick up Microsoft flight simulator today a game that you pay full price for and then have to buy individual planes at a costly additional DLC per each price. Oh and don't stop there because if you actually want to make space for the enjoyable experience of continuously updating the game you never play you better be prepared to delete everything else in your library or be buying this sarlac pit of data its own hard drive because as of posting it's over 160 gigs.,False,2026-05-15 21:40:53,english,4052
+Microsoft Flight Simulator,Simulasyon,"Been playing this for years, I stopped about 6 months ago due to health reasons so I have got back to full health, so when I launch the game it asks my to sign into some XBox thing which it never did before, I play on my PC and never had an XBox account why do I need one this sucks",False,2026-05-15 21:19:48,english,56815
+Microsoft Flight Simulator,Simulasyon,"“Good visuals, basic interface but very enjoyable gameplay. MSFS24 still has streaming stability issues and needs a powerful GPU. Strong stability. Suitable for ""average PCs"" and a good first flight simulation experience”",True,2026-05-12 19:45:46,english,1109
+Microsoft Flight Simulator,Simulasyon,"This game is fun. as you can tell from how many hours i got on it. it may not be your cup of tea. but its well worth a look with Xbox game pass, before buying it.",True,2026-05-12 14:15:19,english,71144
+Microsoft Flight Simulator,Simulasyon,"Microsoft Flight Simulator 2020 is one of the most impressive simulation games ever released, and even years later, it still feels like a benchmark title for what a modern simulator can be. It is not just a game where you fly planes from one airport to another. It is a full aviation sandbox that gives you the entire world, thousands of airports, real weather, realistic flight systems, beautiful aircraft, and endless opportunities to learn, explore, and improve.
+
+The strongest part of Microsoft Flight Simulator 2020 is its sense of scale. Being able to take off from your local airport, fly over your own city, cross oceans, visit famous landmarks, land in remote mountain strips, or recreate real airline routes is incredible. The game makes aviation feel global in a way very few titles ever have. Whether you want to fly a short VFR sightseeing route in a Cessna 172 or plan a full IFR airline flight across the country, the game gives you the tools to do it.
+
+The visuals are absolutely outstanding. The world looks gorgeous from the air, especially with live weather, changing cloud layers, sunsets, storms, snow, and realistic lighting. Flying through mountain ranges, along coastlines, over cities, or into busy airports can genuinely feel cinematic. The weather system is one of the biggest highlights because it adds so much atmosphere and challenge. A calm daytime flight feels relaxing, while a night approach in rain, low visibility, and crosswinds can feel intense and rewarding.
+
+The aircraft selection is also a major strength. The simulator gives players a wide range of flying experiences, from small general aviation aircraft to business jets, airliners, turboprops, bush planes, floatplanes, and helicopters depending on your installed content. Each aircraft has its own personality, handling, cockpit layout, and learning curve. Some are great for casual exploration, while others demand more serious study and procedure knowledge. That flexibility is one of the reasons the sim has such long-term value.
+
+For beginners, Microsoft Flight Simulator 2020 is surprisingly approachable. You can turn on assists, use simplified controls, follow tutorials, and slowly build your skills. For more serious sim pilots, there is enough depth to practice navigation, radio work, instrument flying, aircraft systems, flight planning, weather decision-making, and proper procedures. It does a great job of being accessible without completely sacrificing realism. You can treat it like a relaxing flying game or a serious training-style simulator, depending on how much effort you want to put in.
+
+The cockpit experience is excellent. Sitting in a detailed cockpit, managing switches, setting up navigation, adjusting radios, monitoring instruments, and flying an approach gives the sim a strong sense of immersion. With a good joystick, throttle, rudder pedals, or yoke setup, the experience becomes even better. The game rewards hardware investment, but it does not require a full cockpit setup to be enjoyable.
+
+The flight planning and navigation side of the game is another major selling point. You can fly visually by landmarks, use GPS, follow VORs, fly IFR routes, shoot instrument approaches, or use third-party tools to create more realistic airline-style flights. There is a real sense of accomplishment when you plan a route, depart properly, navigate across distance, manage fuel, descend on profile, and land successfully at your destination.
+
+The airport coverage is massive. Even small local airports are represented, and the handcrafted airports add extra detail to major locations. The ability to fly almost anywhere on Earth gives the game unmatched replay value. You are never really “done” with Microsoft Flight Simulator because there is always another route, aircraft, region, airport, weather condition, or challenge to try.
+
+The community and add-on ecosystem are also huge positives. There are aircraft, liveries, scenery improvements, airports, utilities, mods, and flight planning tools that can dramatically expand the experience. The marketplace and external add-on community help keep the simulator fresh. Whether you are into airliners, bush flying, helicopters, military-style flying, historical aircraft, or general aviation, there is almost always something available to support that niche.
+
+Performance can vary depending on your system, settings, and location, but when the sim is running well, it is one of the most immersive experiences on PC. It is demanding, but that is not surprising considering what it is trying to do. This is a game rendering the entire planet, complex aircraft, weather, traffic, lighting, and huge amounts of scenery. With the right settings dialed in, the experience is absolutely worth it.
+
+One of the best things about Microsoft Flight Simulator 2020 is that it creates memorable moments constantly. Taking off from a small mountain airport at sunrise, flying over your hometown, landing at a major international airport in bad weather, cruising above cloud layers, or finding a random remote airstrip can all feel special. It captures the freedom and beauty of aviation better than almost anything else.
+
+It also has real educational value. You can learn basic aerodynamics, airport operations, navigation, weather awareness, aircraft systems, and flight procedures. It will not replace real flight training, but it can absolutely help build familiarity with cockpit layouts, navigation concepts, checklists, and aviation terminology. For anyone interested in aviation, it is a fantastic entry point.
+
+Overall, Microsoft Flight Simulator 2020 is a landmark simulator. It is beautiful, detailed, flexible, massive in scope, and endlessly replayable. It works both as a relaxing exploration game and as a serious aviation platform. Whether you are a casual player who wants to see the world from above or an aviation enthusiast who wants to practice realistic procedures, there is a tremendous amount of value here.
+
+Final Verdict: Absolutely recommended. Microsoft Flight Simulator 2020 is not just one of the best flight simulators available; it is one of the most impressive simulation experiences ever made.",True,2026-05-11 16:31:00,english,3113
+Microsoft Flight Simulator,Simulasyon,"Unable to download the 30gb+ update file. Always stuck at 15mbps. The game was not always like this. This a clean install. If you pause it, it will always start over from 0. Followed multiple troubleshooting steps, DNS, Netsh, etc. Nothing changes it. Definitely purchase this is you want a nice paperweight in your games list.",False,2026-05-11 01:04:40,english,5093
+Microsoft Flight Simulator,Simulasyon,"No le crean a esas 35 horas de juego, solo eh jugado como 8 horas, el resto es pura instalacion de contenido que se tarda una eternidad.
+Antes en Windows se me quemaba la pc jugando, incluso en graficos minimos me iba mal y hasta se me apagaba la pc, ahora en linux puedo al menos jugar mas normal, aunque no es perfecto, aveces las lineas de voz no suenan, los desafios se buguean, a sido el juego mas caro que comprado alguna vez y la verdad no lo juego mucho, pero el sentir volar, es increible, ahora lo puedo disfrutar mas, solo llevo unas cuantas horas de probarlo en linux, 7/10",True,2026-05-10 21:29:07,latam,2108
+Microsoft Flight Simulator,Simulasyon,"This game is amazing, especially on PC as you can get what ever addons you want for free",True,2026-05-10 17:49:14,english,4046
+Microsoft Flight Simulator,Simulasyon,"Its a Flight Sim, Play it, you'll like it.  Fly under a bridge, or over a famous landmark.  You'll have fun.",True,2026-05-10 15:30:00,english,1135
+Microsoft Flight Simulator,Simulasyon,"Další verze civilního leteckého simulátrou od Microsoftu. Microsoft výrobu tentokrát svěřil francouzskému studiu Asobo, jež má na svědomí třeba akční adventuru A Plague Tale se skvělou grafikou. Aby se to lépe pletlo, tak hra nemá žádné označení verze. Vzhledem k tomu, že vyšla v roce 2020, tak jsem mu dal neoficiálně do závorky tohle datum - někde se to tak také uvádí.
+Simulátor samozřejmě vylepšil hlavně grafickou stránku hry. Stačí se podívat na grafické scenérie v tomto, nebo tomto videu a budete slintat blahem. :)
+Co se týče letadel, tak základní Standard Edition měla při vydání 20 kusů:
+
+Turbovrtulové:
+Daher TBM 930
+Beechcraft King Air 350i
+Cessna 208 B Grand Caravan EX
+
+Moderní airlinery:
+Airbus A320neo (+ v2)
+Boeing 747-8 Intercontinental
+
+Vrtulové:
+Diamond DA62
+EXTRA 330LT
+Flight Design CTSL
+ICON A5
+JMB VL-3
+Robin Cap10
+Robin DR400/100 Cadet
+Beechcraft Bonanza G36
+Cessna 152
+Cessna 172 SkyHawk (G1000) (včetně variant s plováky a lyžemi)
+Zlin Savage Cub
+CubCrafters X Cub (včetně variant s plováky a lyžemi)
+Diamond DA40NG
+Aviat Pitts Special S-2S
+
+Tryskové:
+Cessna Citation CJ4
+
+V bezplatném updatu v listopadu 2021 přibylo dalších 5:
+
+Tryskové:
+Boeing F/A-18E/F Super Hornet
+
+Turbovrtulové:
+Pilatus PC-6/B2-H4 Turbo Porter
+Pilatus PC-6/B2-H4 Turbo Porter G950
+Pilatus PC-6/B2-H4 Turbo Porter G950 floats (plováky)
+Pilatus PC-6/B2-H4 Turbo Porter skis (lyže)
+Aviat Pitts Special S-1S
+CubCrafters NXCub
+Volocopter VoloCity (eVTOL – létající taxi)
+
+40th Anniversary Edition: v listopadu 2022 na 40. výročí vydání prvního Flight Simulátoru byla hra bezplatně povýšena na tuhle edici. Nový obsah této edice (kromě placených přídavků) je majitelům základní hry k dispozici zdarma.
+V základu této edice jsou nové stroje (12):
+
+Historická letadla:
+1903 Wright Flyer
+1915 Curtiss JN-4 Jenny
+1927 Ryan NYP Spirit of St. Louis
+1935 Douglas DC-3 classic
+1937 Grumman G-21A Goose
+1947 de Havilland DHC-2 Beaver (+ Amphibious Floatplane - plováky)
+1947 Hughes H4 Hercules (Spruce Goose – největší dřevěný letoun)
+
+Moderní airliner:
+Airbus A310-300 (plně studiový model s vysokou věrností)
+
+Helikoptéry:
+Guimbal Cabri G2
+Bell Model 407
+
+Kluzáky:
+DG Aviation LS8-18
+DG-1001E neo
+
+Co se týče herních možností, tak je ve hře samozřejmě ""Flight Training"" se 7 oddíly, jež vás naučí pilotáži. Pak je zde sekce ""Discovery Flights"", kde si můžete zalétat na některých vybraných zajímavých místech světa a kochat se krásami různých lokací, jako jsou třeba egyptské pyramidy, Singapur, San Francisko, Mekka a další... U některých lokací je třeba nejprve stáhnout detailnější verzi dané lokace (zdarma). Je zde 11 lokací v základu a dalších 26 je třeba dostahovat, celkem tedy 37. Dále jsou zde ""Activities"", kde jsou různé tématické výzvy: přistávání (3), bush trips (3), TOP GUN Maverick s F/A-18, Dune - ze světa Duny, 40th Anniversary - mise z minulých dílů, nebo si můžete nějaké mise stáhnout z Marketplace. Pro volné létání je zde sekce ""World Map"", kde si prostě vyberete jakékoliv místo, odkud chcete startovat a kam máte namířeno a lítat si dle libosti. Samozřejmě jsou zde všechny letiště, včetně i těch nejmenších v malých zapadlých městečkách někde na Moravě. :) Lze si vybrat jakékoliv letadlo s několika barevnými variantami, počasí, denní dobu, či počasí a denní dobu nastavit i na aktuální stav. Můžete klidně umístit velký Boeing 747, nebo Airbus A320 i na ono malé travnaté letiště někde v Prdelákově a zkusit s ním odstartovat. Já to zkusil a nechal startovat autopilota - ne, nezvládl to. Nedokázal nabrat rychlost a zastavil. :) Ale třeba stíhačka F/A-18 to zvládla. :)
+Přes šikovné menu, jež se objeví po najetí myší na horní okraj obrazovky se dá během hry měnit a ovládat řada věcí. Zapínat autopilota, teleportovat se do větší výšky, měnit počasí a denní dobu, přepínat kameru atd, atd...
+Hra se dá ovládat myší a klávesnicí, ale lepší je použít joystick. Pomocí myši můžete ovládat i ovládací prvky v kokpitu letadla. No..., nebudu vám lhát, moc mi to nešlo. :) Třeba v sérii Sturmovik se mi daří létat docela obstojně, ale u malých civilních letadel je ovládání poněkud složitější. Pokusím se s letadlem klasicky zatočit, nakloním ho a mírně zvednu čumák (jako ve Sturmoviku), ale ovládání má takové zpoždění, že po každém pokusu zatočit se mi pořád letadlo naklání střídavě na jednu a druhou stranu, protože to pořád přeháním, až to divoké kolébání nezvládnu a letadlo se pod šíleným úhlem řítí k zemi. Konzultoval jsem to s AI a to mi řeklo, že tenhle problém má hodně nezkušených hráčů. Pilotování malých civilních letadel, jež dosahují malých rychlostí je údajně daleko obtížnější, než hbité a rychle reagující stíhačky z druhé světové války. Ovšem zajímavé, že stejný problém mám i se stíhačkou F/A-18 - ta by snad měla také reagovat hbitě??? Musí se prý různě přenastavit citlivost jednotlivých os joysticku a používat jakési trimování. Pokusil jsem se na to pomocí onoho AI přijít na kloub, joystick přenastavit, ale je to na mě prostě moc složitý a nepomáhá to. Ale i tak je celkem zábavné, si na mapě světa vytyčit nějakou trasu, zapnout autopilota a jen se rozhlížet a kochat. :)
+Multiplayer:
+Lze létat offline, nebo se přepnout do online světa a potkávat ostatní hráče. Zkoušel jsem to, ale ostatní hráči byli jen na minimapě a i když jsem měl být blízko nějakého letadla, tak jsem žádné neviděl...
+Plusy:
+NAPROSTO LUXUSNÍ 4K grafika přírody i kokpitu!!!
+Přímo v menu je Marketplace, kde si do hry můžete stáhnout dodatečný obsah od komunity. Jsou tam i věci zdarma. Třeba je tam detailnější mapa centrálně-východní Evropy přímo od Microsoftu (Central Eastern Europe - 15,4 GB). Nebo jsou tam, rovněž zdarma, enhanced verze letadel A310-300, A320neo a DC-3.
+Mínusy:
+Tradičně vysoká cena.
+Po instalaci hry na Steamu se ještě musíte přihlásit na XBox Game Studio Microsoft účtem.
+Po instalaci hry ze Steamu (asi cca 1,5 GB - ano je to podezřele málo) si hra stáhne ze serverů Microsoftu dalších asi 163 GB. Stahování není moc vychytané. Ano, můžete ho třeba zapauzovat, když potřebujete, ale když se třeba přepojíte během stahování z wi-fi na kabel, nebo se vám seknou Windows, jako se stalo zrovna mě, tak stahování začíná úplně od začátku. :( Navíc hra ještě po 6 letech dostává časté updaty a třeba po prvním týdnu se mi stahovalo před spuštěním dalších 380 MB updatů.
+Nechápu, proč nemá hra žádné označení verze, takhle se bude plést s jinými díly (jako by to byla první verze).",True,2026-05-10 08:39:10,czech,1385
+Microsoft Flight Simulator,Simulasyon,i love this game very good game and good graphics but is a bit buggy and requires a good pc my specs are ok for max graphics (shown below),True,2026-05-09 18:26:52,english,32725
+Microsoft Flight Simulator,Simulasyon,oyunda farklı meydan da uçuş yapamıyorum world map te seçtiğimde hep münih meydan çıkıyor asla düzelmiyor,False,2026-05-21 16:07:22,turkish,3955
+Microsoft Flight Simulator,Simulasyon,I've been crashing into my ex-gf's house for the last 12 hours. This game never gets old!,True,2026-05-21 21:16:17,english,2477
+Microsoft Flight Simulator,Simulasyon,Sim runs great and looks great but not being able to setup a vacuum system fail and fly partial panel is NOT ACCEPTABLE. This was a basic feature that FSX had.,False,2026-05-28 23:56:00,english,4608
+Microsoft Flight Simulator,Simulasyon,підорасі галиміе не дают нормальній фпс на моем ахуенном (нищем) железе и я вінужден дрочить на 20 фпс с фремгеном,True,2026-06-06 18:25:17,english,13955
+Microsoft Flight Simulator,Simulasyon,good game but i wanted to fly from singapore to new york and my autopilot didnt work at ALL. 9/10 game,True,2026-05-18 19:42:10,german,766
+Microsoft Flight Simulator,Simulasyon,"Nach über 1k Stunden immer noch super, wenn man sich mit der Luftfahrt beschäftigt oder einfach fasziniert am Fliegen ist !",True,2026-05-11 21:55:06,german,66683
+Microsoft Flight Simulator,Simulasyon,good game. kinda mid sometimes though but fun. other games are better but not bad game,True,2026-06-03 15:11:06,english,4256
+Microsoft Flight Simulator,Simulasyon,"great game but planes are a ♥♥♥♥♥♥♥ of money like ive spent over 150 PLN on this game and you get a good handful of planes like the dc-3 a310 747 chef's kiss but when u wanna buy some planes I can spend the exact same price of the game FOR ONE PLANE like what kinda ♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥♥ is that.
+
+Great flight sim game and great for getting u bankrupt",True,2026-05-27 21:48:24,english,1560
+Microsoft Flight Simulator,Simulasyon,"As I am writing this review, the game is still downloading - not even close to halfway the total of 130gb after 49 hours.
+Yes, that's right. It's been downloading for 49 hours.
+
+I have yet to be able to even actually start playing the game.
+
+So for those who quickly want to try this out to see if it's something for them: *just don't* and go try some other flight sim first, because  there is no way you can try it and get reimbursed if you don't like it.
+The download comes through an xbox installation manager, so in steam it is registered as playing time..
+
+Now as for me, this download farce (which has been going on for years apparently) makes give this a big thumbs down. 
+The game might be great (we'll see, I'm a patient man), and I might enjoy it very much, but it won't change to a positive review because it is simply criminal negligence by microsoft not to have dealt with such a big well known issue from the start.
+
+PS: I have tried different methods (VPN and other workarounds), but nothing worked to speed things up a little.
+
+PPS: having been able to finally play this game: it looks amazing (flying by Naples at sunset is a treat) and it seems to work flawlessly so far.
+That being said, the fact it takes literal days to download still doesn't make it a thumbs up for me.",False,2026-05-10 08:25:58,dutch,4969
+Microsoft Flight Simulator,Simulasyon,c trop bien comme jeu par contre je recommande d'y jouer seulement avec un manche pas avec un clavier souris,True,2026-05-17 10:28:17,french,6659
+Microsoft Flight Simulator,Simulasyon,"after you actually download it after 2 decades its fun 
+can fly a plane
+only for a few seconds though",True,2026-06-06 10:10:55,english,3684
+Microsoft Flight Simulator,Simulasyon,what... what if... it was called microsoft fight simulator and you walk to microsoft headquaters and infiltrate their servers there is 50 hours of gameplay and then you get to the final room stick with me ok the light gets all dim and bill ♥♥♥♥♥♥♥ gates is there and you duel him and it turns into a soulslike and billiard is the equivalent of elden ring boss idk i havent played enough of elden ring to give an exact name of who he could be equivalent to but you get the vision right? yeah you get it so then after you fight the game turns into a perfect replica of the universe but you have billiums vast fortune and can spend it all but then you get arrested because of murder! so it then simulates the events of Yoshie Shiratori and his fight against the japanese legal system during world war two and you have to escape from FOUR prisons and then you have to beat celeste farewell for good measure idk why i guess billy as a game designer is mad but when you beat fairwell you become madeline celeste yeah that would be cool idk i think it has potential microSOFT take notes...,True,2026-05-23 08:43:51,english,253
+Microsoft Flight Simulator,Simulasyon,"It Is A Really Good Game If You Do Not Want To Spend The Extra Money To Get MSFS 2024, It Is Basicially The Same Except Some Things",True,2026-05-11 01:29:11,english,2467
+Microsoft Flight Simulator,Simulasyon,I hit the towers and I hit the pentagon. Party like it's 2001. Say wallahi bro say wallahi.,True,2026-06-05 20:53:44,english,3805
+Microsoft Flight Simulator,Simulasyon,Msfs 2020 runs shockingly well on my system and its great fun,True,2026-05-30 08:42:51,english,794
+Microsoft Flight Simulator,Simulasyon,"The Graphics are great; but trying to fly an airliner from say London to Frankfurt is fraught with all sorts of problem; e g Airport objects, vehicles, forklift trucks etc in middle of taxiways { I have a screen shot  of  A windsock in the middle of a major taxiway junction. When you do finaly get to designated runway other  planes block your way very often until they just fade out or in some cases taxi straight through you. and that's another bind starting your journey inside another aircraft. Anyway we have been given permission to line up and take off  part way down you take off roll you realise there are planes taking off towards you  or when retuning to Heathrow planes are landing from the opposite end.  The go to your destination is bad  , like I pressed go to LHR whilst over France in a 747  what actually happened we were doing 220knots at 100 feet over the English Channel .BAD ?????? n previous editions you not only had a proper world map, but you Had an alphabetical list of all the countries of the  world with many of there airports and you just selected one in one country and then the other in another country and hey presto the flight plan and of you went.  Now you have an amorphus globe with little white dots on it which you have to  guess and zoom in a lot to even read. The is a word for this offering but you would not print it; then there's vectors which are 90degrees  and then 150; then 75 al withing seconds and to the same waypoint; I could go on but it gets boring.  But i would say if I could MFS2012 to work on windows eleven I would go back in a flash, better game play, better aircraft fleets , I can do with out the pretty picture money pit.",False,2026-05-27 15:55:26,english,8108
+Microsoft Flight Simulator,Simulasyon,I've enjoyed flightsim since it was version 2.0 on the ATARI XEGS. Its come a long way and 2020 is great. i like it well enough that i haven't bothered with 2024 yet!,True,2026-05-27 04:34:46,english,21783
+Microsoft Flight Simulator,Simulasyon,"i spend more time downloading updates and fighting with settings than i do flying.  HOW IS THERE NOT A SIMPLE OPTION FOR PANEL CUSTOMIZATION! I want to practice in a 172 with a basic 6 pack and 430w setup for my ifr rating, but msfs 2020 says, ""you'll use a dual g1000 or nothing at all, you broke ♥♥♥♥♥.""  ♥♥♥♥ customization.",False,2026-05-22 04:59:36,english,12509
+Microsoft Flight Simulator,Simulasyon,I love the graphics improvement over FSX. ATC is improved but still could use more improvement. VATSIM might be a better option.,True,2026-05-21 02:11:48,english,20441
+Microsoft Flight Simulator,Simulasyon,"Beautiful. Interesting. Fun to fly over places I've been, from a bird's eye view. Exploring new places, mapping places I'd like to go in the future. 
+Map 'filler' 3D models of buildings is very innacurate for most places (duh) such as smaller cities, etc., and is laughable. Terrain models are not always finalised to levels of detail for things such as flying under bridges (we're talking the whole world is mapped here, so a break is given). 
+
+Overall, the kid in me is wowed after playing early editions of MSFS, being able to do what we can today. 
+
+If you're a flight sim fan, explorer, photographer, buy it (on sale).",True,2026-05-19 22:27:43,english,2531
+Microsoft Flight Simulator,Simulasyon,This game is the best sim I've ever played my dream is to be a pilot and being able to fly planes at the age of 10 is a great experience and before I started to fly I didn't know a thing about a plane and know I can go to an airport and fly a plane with no hesitation.,True,2026-05-17 17:33:43,english,2190
+Microsoft Flight Simulator,Simulasyon,I can no longer log in. it doesn't even show a valid QR code. this is laughable. SOMEBODY fix this (it's easy)! i might sell all of my MSFT stock...,False,2026-05-16 02:43:44,english,1692
+Microsoft Flight Simulator,Simulasyon,bardzo dobre i realistyczne i można rozbić się o swoją własną chałupe,True,2026-05-14 17:30:19,polish,456
+Microsoft Flight Simulator,Simulasyon,all i can say is a load of rubbish free scenery has mess ups like massive holes in the floor etc you cannot do anything without it messing up,False,2026-05-10 10:58:53,english,34631
+Microsoft Flight Simulator,Simulasyon,Сам являюсь пилотом в реальном мире. Но жить без полетов не могу. Плюс подспорье к постоянному усовершенствованию своих знаний.,True,2026-05-09 15:39:18,russian,14239

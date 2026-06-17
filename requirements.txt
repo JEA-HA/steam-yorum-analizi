@@ -1,0 +1,15 @@
+selenium
+webdriver-manager
+requests
+pandas
+numpy
+langdetect
+deep-translator
+nltk
+vaderSentiment
+plotly
+wordcloud
+matplotlib
+streamlit
+python-dotenv
+tqdm

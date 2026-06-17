@@ -1,0 +1,26 @@
+﻿game_name,app_id,fiyat_usd,fiyat_str,ucretsiz,gelistirici,yayinci,cikis_tarihi,meta_puani,kategori_etiket,tur_etiket,basarim_sayisi
+Cyberpunk 2077,1091500,59.99,$59.99,False,CD PROJEKT RED,CD PROJEKT RED,"Dec 9, 2020",86.0,"Single-player, Steam Achievements, Full controller support, Steam Trading Cards, Adjustable Text Size",RPG,57
+Baldur's Gate 3,1086940,59.99,$59.99,False,Larian Studios,Larian Studios,"Aug 3, 2023",96.0,"Single-player, Multi-player, Co-op, Online Co-op, LAN Co-op","Adventure, RPG, Strategy",54
+Elden Ring,1245620,59.99,$59.99,False,"FromSoftware, Inc.","FromSoftware, Inc., Bandai Namco Entertainment","Feb 24, 2022",94.0,"Single-player, Multi-player, PvP, Online PvP, Co-op","Action, RPG",42
+The Witcher 3,292030,39.99,$39.99,False,CD PROJEKT RED,CD PROJEKT RED,"May 18, 2015",93.0,"Single-player, Steam Achievements, Steam Trading Cards, Steam Workshop, Adjustable Text Size",RPG,78
+Dragon Age Inquisition,1222690,39.99,$39.99,False,BioWare,Electronic Arts,"Jun 4, 2020",85.0,"Single-player, Multi-player, Co-op, Online Co-op, Steam Achievements","Action, Adventure, RPG",69
+Counter-Strike 2,730,0.0,Ucretsiz,True,Valve,Valve,"Aug 21, 2012",,"Multi-player, Cross-Platform Multiplayer, Steam Trading Cards, Steam Workshop, In-App Purchases","Action, Free To Play",1
+Apex Legends,1172470,0.0,Ucretsiz,True,Respawn,Electronic Arts,"Nov 4, 2020",88.0,"Multi-player, PvP, Online PvP, Co-op, Online Co-op","Action, Adventure, Free To Play",12
+Doom Eternal,782330,29.99,$29.99,False,id Software,Bethesda Softworks,"Mar 19, 2020",88.0,"Single-player, Multi-player, PvP, Online PvP, Steam Achievements",Action,50
+Battlefield 2042,1517290,59.99,$59.99,False,DICE,Electronic Arts,"Nov 19, 2021",,"Multi-player, PvP, Online PvP, Co-op, Online Co-op","Action, Adventure, Casual",34
+Titanfall 2,1237970,29.99,$29.99,False,Respawn Entertainment,Electronic Arts,"Jun 18, 2020",86.0,"Single-player, Multi-player, PvP, Online PvP, Steam Achievements",Action,50
+Civilization VI,289070,59.99,$59.99,False,"Firaxis Games, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)","Oct 20, 2016",88.0,"Single-player, Multi-player, PvP, Online PvP, LAN PvP",Strategy,320
+Total War Warhammer III,1142710,59.99,$59.99,False,"CREATIVE ASSEMBLY, Feral Interactive","SEGA, Feral Interactive","Feb 16, 2022",86.0,"Single-player, Multi-player, PvP, Online PvP, LAN PvP","Action, Strategy",138
+Stellaris,281990,49.99,$49.99,False,Paradox Development Studio,Paradox Interactive,"May 9, 2016",78.0,"Single-player, Multi-player, Cross-Platform Multiplayer, Steam Achievements, Steam Trading Cards","Simulation, Strategy",219
+Age of Empires IV,1466860,13.99,$13.99,False,"World's Edge, Relic Entertainment, Forgotten Empires, Climax Studios",Xbox Game Studios,"Oct 28, 2021",81.0,"Single-player, Multi-player, PvP, Online PvP, Co-op",Strategy,175
+XCOM 2,268500,19.99,$19.99,False,"Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)","2K, Feral Interactive (Mac), Feral Interactive (Linux)","Feb 4, 2016",88.0,"Single-player, Steam Achievements, Steam Trading Cards, Steam Workshop, Steam Cloud",Strategy,88
+Cities Skylines,255710,8.99,$8.99,False,Colossal Order,Paradox Interactive,"Mar 10, 2015",85.0,"Single-player, Steam Achievements, Steam Trading Cards, Steam Workshop, Steam Cloud","Simulation, Strategy",135
+Planet Zoo,703080,44.99,$44.99,False,Frontier Developments,Frontier Developments,"Nov 5, 2019",81.0,"Single-player, Steam Achievements, Steam Trading Cards, Steam Workshop, Steam Cloud","Casual, Simulation, Strategy",38
+Microsoft Flight Simulator,1250410,59.99,$59.99,False,Asobo Studio,Xbox Game Studios,"Aug 17, 2020",91.0,"Single-player, Multi-player, Steam Achievements, Full controller support, VR Supported",Simulation,43
+Stardew Valley,413150,14.99,$14.99,False,ConcernedApe,ConcernedApe,"Feb 26, 2016",89.0,"Single-player, Multi-player, Co-op, Online Co-op, LAN Co-op","Indie, RPG, Simulation",49
+Euro Truck Simulator 2,227300,19.99,$19.99,False,SCS Software,SCS Software,"Oct 12, 2012",79.0,"Single-player, Multi-player, Co-op, Online Co-op, Steam Achievements","Indie, Simulation",106
+PUBG,578080,0.0,Ucretsiz,True,PUBG Corporation,"KRAFTON, Inc.","Dec 21, 2017",,"Multi-player, PvP, Online PvP, Custom Volume Controls, Stereo Sound","Action, Adventure, Massively Multiplayer",37
+Among Us,945360,2.99,$2.99,False,Innersloth,Innersloth,"Nov 16, 2018",85.0,"Multi-player, PvP, Online PvP, LAN PvP, Co-op",Casual,33
+Fall Guys,1097150,0.0,Ucretsiz,False,Mediatonic,,"Aug 3, 2020",80.0,"Multi-player, MMO, PvP, Online PvP, Co-op","Action, Casual, Indie",34
+Deep Rock Galactic,548430,29.99,$29.99,False,Ghost Ship Games,Coffee Stain Publishing,"May 13, 2020",85.0,"Single-player, Multi-player, Co-op, Online Co-op, Steam Achievements",Action,69
+Warframe,230410,0.0,Ucretsiz,True,Digital Extremes,Digital Extremes,"Mar 25, 2013",69.0,"Single-player, Multi-player, Co-op, Online Co-op, Cross-Platform Multiplayer","Action, RPG, Free To Play",193

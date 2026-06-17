@@ -1,0 +1,58 @@
+@,scripts klasörüne 1_scraper.py dosyasını oluştur.
+
+Bu dosya Selenium ile Steam'den oyun yorumlarını çekecek.
+
+Gereksinimler
+- webdriver-manager ile Chrome otomatik yönetilsin
+- Steam review sayfası URL formatı
+  httpsstore.steampowered.comapp{APP_ID}reviewsfilter=all&language=all
+- Her oyun için yaklaşık 500 yorum hedefle
+- Sayfa scroll ederek yorumları yükle
+- Çekilen her yorum için şu bilgileri al
+  game_name, game_genre, review_text, voted_up (TrueFalse),
+  timestamp_created, language, playtime_at_review
+- Her oyun ayrı CSV olarak dataraw klasörüne kaydedilsin
+  örnek datarawcyberpunk_2077.csv
+- İstekler arasında rastgele 2-4 saniye bekle
+- Hata olursa atla ve devam et, çökmesin
+
+Oyunlar ve Steam App ID'leri
+RPG
+  Cyberpunk 2077 1091500
+  Baldur's Gate 3 1086940
+  Elden Ring 1245620
+  The Witcher 3 292030
+  Dragon Age Inquisition 1222690
+
+FPS
+  Counter-Strike 2 730
+  Apex Legends 1172470
+  Doom Eternal 782330
+  Battlefield 2042 1517290
+  Titanfall 2 1237970
+
+Strateji
+  Civilization VI 289070
+  Total War Warhammer III 1142710
+  Stellaris 281990
+  Age of Empires IV 1466860
+  XCOM 2 268500
+
+Simülasyon
+  Cities Skylines 255710
+  Planet Zoo 703080
+  Microsoft Flight Simulator 1250410
+  Stardew Valley 413150
+  Euro Truck Simulator 2 227300
+
+Çok Oyunculu
+  PUBG 578080
+  Among Us 945360
+  Fall Guys 1097150
+  Deep Rock Galactic 548430
+  Warframe 230410
+
+Kodu Türkçe yorumlarla yaz, her fonksiyonu açıkla.
+Dosyanın sonuna şu bloğu ekle
+if __name__ == __main__
+    tum_oyunlari_cek()
