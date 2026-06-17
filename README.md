@@ -7,7 +7,18 @@
 ![Apache Spark](https://img.shields.io/badge/Apache-Spark-orange.svg)
 ![Hadoop](https://img.shields.io/badge/Hadoop-HDFS-yellow.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)
-![License](https://img.shields.io/badge/License-Academic-green.svg)
+![Academic Project](https://img.shields.io/badge/Project-Graduation%20Project-success.svg)
+
+---
+
+## 🌐 Canlı Dashboard
+
+### Dashboard'u İncelemek İçin
+
+[![Open Dashboard](https://img.shields.io/badge/Open-Live_Dashboard-red?style=for-the-badge\&logo=streamlit)](https://steam-yorum-projesi.streamlit.app/)
+
+**Canlı Uygulama:**
+https://steam-yorum-projesi.streamlit.app/
 
 ---
 
@@ -28,19 +39,19 @@
 
 Steam platformundaki oyun yorumlarını büyük veri analizi yöntemleriyle inceleyen, kullanıcı şikayetlerini kategorize eden ve oyun stüdyolarına veri odaklı stratejik öneriler sunan bir sistem.
 
+Bu proje, kullanıcı deneyimini etkileyen temel sorunları belirleyerek oyun geliştiricilerine stratejik karar destek mekanizması sağlamayı amaçlamaktadır.
+
 ---
 
 ## 📊 Veri Seti
 
-25 farklı oyundan (**5 oyun türü × 5 oyun**) Steam Web API aracılığıyla toplanan **12.285 gerçek kullanıcı yorumu**.
+25 farklı oyundan (**5 oyun türü × 5 oyun**) Steam Web API aracılığıyla toplanan **12.285 gerçek kullanıcı yorumu** analiz edilmiştir.
 
-Veri seti:
+Veri seti aşağıdaki klasörde bulunmaktadır:
 
 ```text
 data/processed/
 ```
-
-klasöründe bulunmaktadır.
 
 ---
 
@@ -63,7 +74,7 @@ klasöründe bulunmaktadır.
 
 * 8 kategoride otomatik şikayet tespiti
 
-### ⚡ Büyük Veri Altyapısı
+### ⚡ Büyük Veri Teknolojileri
 
 * Apache Spark
 * Hadoop HDFS
@@ -85,21 +96,23 @@ klasöründe bulunmaktadır.
 steam_analiz/
 
 ├── data/
-│   ├── raw/              # Ham yorum verileri
-│   └── processed/        # İşlenmiş veri seti
+│   ├── raw/                 # Ham yorum verileri
+│   └── processed/           # İşlenmiş veri seti
 │
-├── scripts/              # Veri toplama ve analiz betikleri
+├── scripts/                 # Veri toplama ve analiz betikleri
 │
-├── dashboard/            # Streamlit dashboard
+├── dashboard/               # Streamlit dashboard
 │
-├── notebook/             # Jupyter Notebook (EDA + SHAP)
+├── notebook/                # Jupyter Notebook (EDA + SHAP)
 │
-└── reports/              # Analiz raporları ve görseller
+└── reports/                 # Analiz raporları ve görseller
 ```
 
 ---
 
 ## ⚙️ Kurulum
+
+Gerekli kütüphaneleri yükleyin:
 
 ```bash
 pip install -r requirements.txt
@@ -108,6 +121,8 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ Kullanım
+
+Dashboard'u çalıştırmak için:
 
 ```bash
 streamlit run dashboard/app.py
@@ -155,6 +170,23 @@ streamlit run dashboard/app.py
 
 ---
 
+## 🛠️ Kullanılan Teknolojiler
+
+* Python
+* Pandas
+* NumPy
+* Apache Spark
+* Hadoop HDFS
+* Hive Metastore
+* Streamlit
+* VADER Sentiment Analysis
+* SHAP
+* Steam Web API
+* Matplotlib
+* Seaborn
+
+---
+
 ## 👨‍💻 Geliştirici
 
 **Mehmet Mıdıkoğlu**
@@ -164,3 +196,7 @@ streamlit run dashboard/app.py
 Bursa Uludağ Üniversitesi
 İnegöl İşletme Fakültesi
 Yönetim Bilişim Sistemleri Bölümü
+
+---
+
+⭐ Bu proje Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri bölümü bitirme projesi kapsamında geliştirilmiştir.
